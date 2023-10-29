@@ -10,27 +10,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Sajad Ebrahimi, and I'm a senior B.Sc. student in Computer Engineering at the FUM. Currently, I am a Research Assistant at the TMU under the supervision of [Dr. Ebrahim Bagheri](https://www.torontomu.ca/electrical-computer-biomedical/people/faculty/ebrahim-bagheri/), working on information retriever. Prior to that, I worked with [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) to generate a dataset of top-universities' courses.
+I'm Sajad Ebrahimi, and I am a Master's student in University of Guelph. I am working at the [Laboratory for Systems, Software and Semantics](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://www.torontomu.ca/electrical-computer-biomedical/people/faculty/ebrahim-bagheri/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
 
 You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 
-# Research Interests
+# 🔍 Research Interests
 - Natural Language Processing
-- Data Mining
 - Information Retrieval
+- Data Mining
 - Deep Learning / Machine Learning
 
-# Educations
-- **B.Sc. in Computer Engineering**, [Ferdowsi University of Mashhad](https://um.ac.ir), Mashhad, Iran. *2018 - Present*
+# 📚 Educations
+- **M.A.Sc. in Computer Engineering**, [University of Guelph](https://www.uoguelph.ca/), Guelph, Canada. *2023 - Present*
+- **B.Sc. in Computer Engineering**, [Ferdowsi University of Mashhad](https://um.ac.ir), Mashhad, Iran. *2018 - 2023*
 
-# Research Experiences
-- **Research Assistant**, Toronto Metropolitan University, Toronto, CA. *Sept 2022 - Present*
+# 🤓 Research Experiences
+- **Graduate Research Assistant**, Toronto Metropolitan University, Toronto, Canada. *Oct 2023 - Present*
+- **Research Intern**, Toronto Metropolitan University, Toronto, Canada. *Sept 2022 - Oct 2023*
 - **Research Assistant**, Ferdowsi University of Mashhad, Mashhad, Iran. *July 2021 - Sept 2022*
 
-# Work Experiences
+# 💻 Work Experiences
 - **Data Analyst**,  Kava Tahlil, Tehran, Iran. *Sept 2021 – Aug 2022*
 - **Python Developer**, Freelance. *March 2021 - April 2022*
 
+# 📬 News
+- 2023/10: I won the [CEPS Dean’s Graduate Entrance Scholarships](https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=E6077) for the Fall 2023 semester.
+- 2023/04: I won the Entrance Award in Recognition of Student Excellence in the College of Engineering and Physical Sciences at the University of Guelph.
 
 [//]: # (# 📝 Publications )
 
