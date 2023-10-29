@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Sajad Ebrahimi, and I am a Master's student in University of Guelph. I am working at the [Laboratory for Systems, Software and Semantics](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://www.torontomu.ca/electrical-computer-biomedical/people/faculty/ebrahim-bagheri/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
+I'm Sajad Ebrahimi, and I am an M.A.Sc student of Computer Engineering in University of Guelph. I am working at the [Laboratory for Systems, Software and Semantics](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://www.torontomu.ca/electrical-computer-biomedical/people/faculty/ebrahim-bagheri/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) in Ferdowsi University of Mashhad.
 
 You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 
