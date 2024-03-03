@@ -33,13 +33,13 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - **Data Analyst**,  Kava Tahlil, Tehran, Iran. *Sept 2021 – Aug 2022*
 - **Software Engineer**, Freelance. *March 2021 - April 2022*
 
-# 📬 News
-- 2024/03: I attended the [ECIR 2024](https://ecir2024.org/) conference in Glasgow, Scotland.
-- 2023/12: Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted at [ECIR 2024](https://ecir2024.org/). w/ Maryam Khodabakhsh, Negar Arabzadeh, and Ebrahim Bagheri. 
-- 2023/10: I won the [CEPS Dean’s Graduate Entrance Scholarships](https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=E6077) for the Fall 2023 semester.
-- 2023/04: I won the Entrance Award in Recognition of Student Excellence in the College of Engineering and Physical Sciences at the University of Guelph.
-
 # 📝 Publications 
 - **Estimating Query Performance Through Rich Contextualized Query Representations**    
     **Sajad Ebrahimi**, Maryam Khodabakhsh, Negar Arabzadeh, Ebrahim Bagheri  
     *ECIR 2024: 46th European Conference on Information Retrieval*
+
+# 📬 News
+- 2024/03: I attended the [ECIR 2024](https://ecir2024.org/) conference in Glasgow, Scotland.
+- 2023/12: Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted at [ECIR 2024](https://ecir2024.org/).
+- 2023/10: I won the [CEPS Dean’s Graduate Entrance Scholarships](https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=E6077) for the Fall 2023 semester.
+- 2023/04: I won the Entrance Award in Recognition of Student Excellence in the College of Engineering and Physical Sciences at the University of Guelph.
