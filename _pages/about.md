@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Sajad Ebrahimi, and I am an M.A.Sc student of Computer Engineering in University of Guelph. I am working at the [Laboratory for Systems, Software and Semantics](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://www.torontomu.ca/electrical-computer-biomedical/people/faculty/ebrahim-bagheri/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) in Ferdowsi University of Mashhad.
+I'm Sajad Ebrahimi, and I am an M.A.Sc student in Computer Engineering at University of Guelph. I am working at the [Laboratory for Systems, Software and Semantics](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://www.torontomu.ca/electrical-computer-biomedical/people/faculty/ebrahim-bagheri/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
 
 You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 
@@ -50,7 +50,7 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
     *ECIR 2024: 46th European Conference on Information Retrieval*
 
 # 💬 Talks
-- Reviewerly: A High Quality Peer Reviewer Suggestion Application [Video](https://www.youtube.com/watch?v=G_KDHRc5y9Q) [Slides](https://docs.google.com/presentation/d/13gX67k30XJg-pHxfJhODHEoD2i6PVU13HL8wZRRQUGs/edit?usp=sharing)
+- Reviewerly: A High Quality Peer Reviewer Suggestion Application \[[Video](https://www.youtube.com/watch?v=G_KDHRc5y9Q)\] \[[Slides](https://docs.google.com/presentation/d/13gX67k30XJg-pHxfJhODHEoD2i6PVU13HL8wZRRQUGs/edit?usp=sharing)\] \
     2024 OpenAlex Virtual User Conference, May 2024
-- Introduction to Neural Information Retrieval [Code](https://colab.research.google.com/drive/1T24mWOVisVv0N45-GlAGm8lCreZmzV0v?usp=sharing) [Slides](https://docs.google.com/presentation/d/104mzYJdT4cS2gWHt4zgwXfua761CFxshoTmo-wwYVJ4/edit?usp=sharing)
+- Introduction to Neural Information Retrieval \[[Code](https://colab.research.google.com/drive/1T24mWOVisVv0N45-GlAGm8lCreZmzV0v?usp=sharing)\] \[[Slides](https://docs.google.com/presentation/d/104mzYJdT4cS2gWHt4zgwXfua761CFxshoTmo-wwYVJ4/edit?usp=sharing)\] \
     Special Topics in Information Retrieval, University of Guelph, November 2023
