@@ -37,6 +37,7 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - **Web Developer Intern**, Iliasystem, Iran. *Aug 2019 - Feb 2020*
 
 # 📬 News
+- 2024/09: Our paper "Gender Disentangled Representation Learning in Neural Rankers" got accepted at [Machine Learning Journal (MLJ)](https://www.springer.com/journal/10994).
 - 2024/05: I attended the [Canadian AI 2024](https://www.caiac.ca/en/conferences/canadianai-2024/home) conference in Guelph, Canada.
 - 2024/05: I presented Reviewerly at the First [OpenAlex User Conference](https://help.openalex.org/events/user-meeting).
 - 2024/03: I attended the [ECIR 2024](https://ecir2024.org/) conference in Glasgow, Scotland.
@@ -45,9 +46,15 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - 2023/04: I won the Entrance Award in Recognition of Student Excellence in the College of Engineering and Physical Sciences at the University of Guelph.
 
 # 📝 Publications 
-- **Estimating Query Performance Through Rich Contextualized Query Representations**    
-    **Sajad Ebrahimi**, Maryam Khodabakhsh, Negar Arabzadeh, Ebrahim Bagheri  
-    *ECIR 2024: 46th European Conference on Information Retrieval*
+- **Gender Disentangled Representation Learning in Neural Rankers** \[[pdf](files/Shirin_MLJ.pdf)\] \
+    Shirin SeyedSalehi, Sara Salamat, Negar Arabzadeh, **Sajad Ebrahimi**, Morteza Zihayat, Ebrahim Bagheri \
+    *Machine Learning Journal (MLJ) 2024*
+- **Reviewerly: Modeling the Reviewer Assignment Task as an Information Retrieval Problem** \
+    Negar Arabzadeh, **Sajad Ebrahimi**, Sara Salamat, Mahdi Bashari, Ebrahim Bagheri \
+    *Industry Day at CIKM 2024: 33rd ACM International Conference on Information and Knowledge Management*
+- **Estimating Query Performance Through Rich Contextualized Query Representations** \[[pdf](files/ECIR2024__QPP_Ebrahimi.pdf)\] \
+    **Sajad Ebrahimi**, Maryam Khodabakhsh, Negar Arabzadeh, Ebrahim Bagheri \
+    *ECIR 2024: 46th European Conference on Information Retrieval* 
 
 # 💬 Talks
 - Reviewerly: A High Quality Peer Reviewer Suggestion Application \[[Video](https://www.youtube.com/watch?v=G_KDHRc5y9Q)\] \[[Slides](https://docs.google.com/presentation/d/13gX67k30XJg-pHxfJhODHEoD2i6PVU13HL8wZRRQUGs/edit?usp=sharing)\] \
