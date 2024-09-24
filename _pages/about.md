@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Sajad Ebrahimi, and I am an M.A.Sc student in Computer Engineering at University of Guelph. I am working at the [Laboratory for Systems, Software and Semantics](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://www.torontomu.ca/electrical-computer-biomedical/people/faculty/ebrahim-bagheri/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
+Sajad Ebrahimi is currently an M.A.Sc student in Computer Engineering at the University of Guelph. His research focuses on natural language processing (NLP) and information retrieval. He is conducting his work at the [Laboratory for Systems, Software and Semantics](https://ls3.rnet.torontomu.ca/), under the supervision of [Dr. Ebrahim Bagheri](https://www.torontomu.ca/electrical-computer-biomedical/people/faculty/ebrahim-bagheri/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Before this, he worked under the guidance of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
 
 You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 
@@ -25,16 +25,17 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - **B.Sc. in Computer Engineering**, [Ferdowsi University of Mashhad](https://um.ac.ir), Mashhad, Iran. *2018 - 2023*
 
 # 🤓 Research Experiences
+- **Faculty Affiliate Researcher**, Vector Institute, Toronto, Canada. *July 2024 - Present*
 - **Graduate Research Assistant**, University of Guelph, Guelph, Canada. *Sept 2023 - Present*
 - **Research Intern**, Toronto Metropolitan University, Toronto, Canada. *Sept 2022 - Sept 2023*
 - **Research Assistant**, Ferdowsi University of Mashhad, Mashhad, Iran. *July 2021 - Sept 2022*
 
 # 💻 Work Experiences
-- **Data Scientist**, Reviewerly, Canada. *Nov 2023 - Present*
-- **Data Analyst**, Kava Tahlil, Iran. *Sept 2021 – Aug 2022*
-- **Software Engineer**, Freelance. *March 2021 - April 2022*
-- **Software Engineer Intern**, Zima, Iran. *Sept 2020 - Feb 2021*
-- **Web Developer Intern**, Iliasystem, Iran. *Aug 2019 - Feb 2020*
+- **Data Scientist**, Reviewerly | Canada. *Nov 2023 - Present*
+- **Data Analyst**, Kava Tahlil | Iran. *Sept 2021 – Aug 2022*
+- **Software Engineer** | Freelance. *March 2021 - April 2022*
+- **Software Engineer Intern**, Zima | Iran. *Sept 2020 - Feb 2021*
+- **Web Developer Intern**, Iliasystem | Iran. *Aug 2019 - Feb 2020*
 
 # 📬 News
 - 2024/09: Our paper "Gender Disentangled Representation Learning in Neural Rankers" got accepted at [Machine Learning Journal (MLJ)](https://www.springer.com/journal/10994).
@@ -46,13 +47,13 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - 2023/04: I won the Entrance Award in Recognition of Student Excellence in the College of Engineering and Physical Sciences at the University of Guelph.
 
 # 📝 Publications 
-- **Gender Disentangled Representation Learning in Neural Rankers** \[[pdf](files/Shirin_MLJ.pdf)\] \
+- **Gender Disentangled Representation Learning in Neural Rankers** \[[pdf](papers/Shirin_MLJ.pdf)\] \
     Shirin SeyedSalehi, Sara Salamat, Negar Arabzadeh, **Sajad Ebrahimi**, Morteza Zihayat, Ebrahim Bagheri \
     *Machine Learning Journal (MLJ) 2024*
-- **Reviewerly: Modeling the Reviewer Assignment Task as an Information Retrieval Problem** \
+- **Reviewerly: Modeling the Reviewer Assignment Task as an Information Retrieval Problem** \[[pdf](papers/CIKM2024_Indutry_Reviewerly.pdf)\] \
     Negar Arabzadeh, **Sajad Ebrahimi**, Sara Salamat, Mahdi Bashari, Ebrahim Bagheri \
     *Industry Day at CIKM 2024: 33rd ACM International Conference on Information and Knowledge Management*
-- **Estimating Query Performance Through Rich Contextualized Query Representations** \[[pdf](files/ECIR2024__QPP_Ebrahimi.pdf)\] \
+- **Estimating Query Performance Through Rich Contextualized Query Representations** \[[pdf](papers/ECIR2024__QPP_Ebrahimi.pdf)\] \
     **Sajad Ebrahimi**, Maryam Khodabakhsh, Negar Arabzadeh, Ebrahim Bagheri \
     *ECIR 2024: 46th European Conference on Information Retrieval* 
 
