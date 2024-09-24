@@ -31,11 +31,10 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - **Research Assistant**, Ferdowsi University of Mashhad, Mashhad, Iran. *July 2021 - Sept 2022*
 
 # 💻 Work Experiences
-- **Data Scientist**, Reviewerly | Canada. *Nov 2023 - Present*
-- **Data Analyst**, Kava Tahlil | Iran. *Sept 2021 – Aug 2022*
-- **Software Engineer** | Freelance. *March 2021 - April 2022*
-- **Software Engineer Intern**, Zima | Iran. *Sept 2020 - Feb 2021*
-- **Web Developer Intern**, Iliasystem | Iran. *Aug 2019 - Feb 2020*
+- **Data Scientist**, Reviewerly, Canada. *Nov 2023 - Present*
+- **Data Analyst**, Kava Tahlil, Iran. *Sept 2021 – Aug 2022*
+- **Software Engineer Intern**, Zima, Iran. *Sept 2020 - Feb 2021*
+- **Web Developer Intern**, Iliasystem, Iran. *Aug 2019 - Feb 2020*
 
 # 📬 News
 - 2024/09: Our paper "Gender Disentangled Representation Learning in Neural Rankers" got accepted at [Machine Learning Journal (MLJ)](https://www.springer.com/journal/10994).
