@@ -52,7 +52,7 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - **Reviewerly: Modeling the Reviewer Assignment Task as an Information Retrieval Problem** \[[pdf](papers/CIKM2024_Indutry_Reviewerly.pdf)\] \
     Negar Arabzadeh, **Sajad Ebrahimi**, Sara Salamat, Mahdi Bashari, Ebrahim Bagheri \
     *Industry Day at CIKM 2024: 33rd ACM International Conference on Information and Knowledge Management*
-- **Estimating Query Performance Through Rich Contextualized Query Representations** \[[pdf](papers/ECIR2024__QPP_Ebrahimi.pdf)\] \
+- **Estimating Query Performance Through Rich Contextualized Query Representations** \[[pdf](papers/ECIR2024__QPP_Ebrahimi.pdf)\] \[[poster](images/ECIR2024_poster.jpg)\] \[[code](papers/ECIR2024__QPP_Ebrahimi.pdf)\]\
     **Sajad Ebrahimi**, Maryam Khodabakhsh, Negar Arabzadeh, Ebrahim Bagheri \
     *ECIR 2024: 46th European Conference on Information Retrieval* 
 
