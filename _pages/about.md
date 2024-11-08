@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Sajad Ebrahimi is currently an M.A.Sc student in Computer Engineering at the University of Guelph. His research focuses on natural language processing (NLP) and information retrieval. He is conducting his work at the [Laboratory for Systems, Software and Semantics](https://ls3.rnet.torontomu.ca/), under the supervision of [Dr. Ebrahim Bagheri](https://www.torontomu.ca/electrical-computer-biomedical/people/faculty/ebrahim-bagheri/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Before this, he worked under the guidance of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
+I'm Sajad Ebrahimi, an M.A.Sc student in Computer Engineering at University of Guelph. I am working at the [LS3](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://www.torontomu.ca/electrical-computer-biomedical/people/faculty/ebrahim-bagheri/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
 
 You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 
