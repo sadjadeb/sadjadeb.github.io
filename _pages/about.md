@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Sajad Ebrahimi, an M.A.Sc student in Computer Engineering at University of Guelph. I am working at the [LS3](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://www.torontomu.ca/electrical-computer-biomedical/people/faculty/ebrahim-bagheri/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
+I'm Sajad Ebrahimi, an M.A.Sc student in Computer Engineering at University of Guelph. My research has been focused on Information Retrieval where I have worked on the Generative Ranking, Query Performance Prediction (QPP), and Reviewer Assignment Problem (RAP). I am working at the [LS3](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://www.torontomu.ca/electrical-computer-biomedical/people/faculty/ebrahim-bagheri/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
 
 You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 
@@ -36,16 +36,10 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - **Software Engineer Intern**, Zima, Iran. *Sept 2020 - Feb 2021*
 - **Web Developer Intern**, Iliasystem, Iran. *Aug 2019 - Feb 2020*
 
-# 📬 News
-- 2024/09: Our paper "Gender Disentangled Representation Learning in Neural Rankers" got accepted at [Machine Learning Journal (MLJ)](https://www.springer.com/journal/10994).
-- 2024/05: I attended the [Canadian AI 2024](https://www.caiac.ca/en/conferences/canadianai-2024/home) conference in Guelph, Canada.
-- 2024/05: I presented Reviewerly at the First [OpenAlex User Conference](https://help.openalex.org/events/user-meeting).
-- 2024/03: I attended the [ECIR 2024](https://ecir2024.org/) conference in Glasgow, Scotland.
-- 2023/12: Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted at [ECIR 2024](https://ecir2024.org/).
-- 2023/10: I won the [CEPS Dean’s Graduate Entrance Scholarships](https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=E6077) for the Fall 2023 semester.
-- 2023/04: I won the Entrance Award in Recognition of Student Excellence in the College of Engineering and Physical Sciences at the University of Guelph.
-
 # 📝 Publications 
+- **exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem** \
+    **Sajad Ebrahimi**, Negar Arabzadeh, Sara Salamat, Mahdi Bashari, Ebrahim Bagheri \
+    *ECIR 2025: 47th European Conference on Information Retrieval*
 - **Gender Disentangled Representation Learning in Neural Rankers** \[[pdf](papers/Shirin_MLJ.pdf)\] \
     Shirin SeyedSalehi, Sara Salamat, Negar Arabzadeh, **Sajad Ebrahimi**, Morteza Zihayat, Ebrahim Bagheri \
     *Machine Learning Journal (MLJ) 2024*
@@ -61,3 +55,16 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
     2024 OpenAlex Virtual User Conference, May 2024
 - Introduction to Neural Information Retrieval \[[Code](https://colab.research.google.com/drive/1T24mWOVisVv0N45-GlAGm8lCreZmzV0v?usp=sharing)\] \[[Slides](https://docs.google.com/presentation/d/104mzYJdT4cS2gWHt4zgwXfua761CFxshoTmo-wwYVJ4/edit?usp=sharing)\] \
     Special Topics in Information Retrieval, University of Guelph, November 2023
+
+# 📬 News
+- 2024/12: Our paper "exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem" got accepted at [ECIR 2025](https://ecir2025.eu/).
+- 2024/12: I attended the [SIGIR-AP 2024](https://www.sigir-ap.org/sigir-ap-2024/) conference in Tokyo, Japan.
+- 2024/12: I attended the [ACML 2024](https://www.acml-conf.org/2024/) conference in Hanoi, Vietnam.
+- 2024/11: I won the [Braithwaite Conference Travel Grant](https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089) for the ACML 2024 conference.
+- 2024/09: Our paper "Gender Disentangled Representation Learning in Neural Rankers" got accepted at [Machine Learning Journal (MLJ)](https://www.springer.com/journal/10994).
+- 2024/05: I attended the [Canadian AI 2024](https://www.caiac.ca/en/conferences/canadianai-2024/home) conference in Guelph, Canada.
+- 2024/05: I presented Reviewerly at the First [OpenAlex User Conference](https://help.openalex.org/events/user-meeting).
+- 2024/03: I attended the [ECIR 2024](https://ecir2024.org/) conference in Glasgow, Scotland.
+- 2023/12: Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted at [ECIR 2024](https://ecir2024.org/).
+- 2023/10: I won the [CEPS Dean’s Graduate Entrance Scholarships](https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=E6077) for the Fall 2023 semester.
+- 2023/04: I won the Entrance Award in Recognition of Student Excellence in the College of Engineering and Physical Sciences at the University of Guelph.
