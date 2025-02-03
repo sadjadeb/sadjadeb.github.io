@@ -17,8 +17,7 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 # 🔍 Research Interests
 - Natural Language Processing
 - Information Retrieval
-- Data Mining
-- Deep Learning / Machine Learning
+- Deep Learning
 
 # 📚 Educations
 - **M.A.Sc. in Computer Engineering**, [University of Guelph](https://www.uoguelph.ca/), Guelph, Canada. *2023 - Present*

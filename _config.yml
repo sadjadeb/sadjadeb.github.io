@@ -27,7 +27,7 @@ author:
   location         : "Toronto, Canada"
   employer         :
   pubmed           : 
-  googlescholar    :
+  googlescholar    : "https://scholar.google.co.in/citations?user=M03zdaAAAAAJ&hl=en"
   email            : "sadjadeb@gmail.com"
   researchgate     :
   uri              :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "sadjadeb"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0003-1630-3938"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "https://stackoverflow.com/users/17821724/sajad-ebrahimi"
