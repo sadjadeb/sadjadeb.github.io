@@ -36,8 +36,8 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - **Web Developer Intern**, Iliasystem, Iran. *Aug 2019 - Feb 2020*
 
 # 📝 Publications 
-- **exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem** \[[pdf](papers/ECIR_2025_exharmony.pdf)\] \
-    **Sajad Ebrahimi**, Negar Arabzadeh, Sara Salamat, Mahdi Bashari, Ebrahim Bagheri \
+- **exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem** \[[pdf](papers/ECIR_2025_exharmony.pdf)\] \[[code](https://github.com/sadjadeb/exHarmony)\] \
+    **Sajad Ebrahimi**\*, Sara Salamat\*, Negar Arabzadeh, Mahdi Bashari, Ebrahim Bagheri \
     *ECIR 2025: 47th European Conference on Information Retrieval*
 - **Gender Disentangled Representation Learning in Neural Rankers** \[[pdf](papers/Shirin_MLJ.pdf)\] \
     Shirin SeyedSalehi, Sara Salamat, Negar Arabzadeh, **Sajad Ebrahimi**, Morteza Zihayat, Ebrahim Bagheri \
@@ -45,17 +45,17 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - **Reviewerly: Modeling the Reviewer Assignment Task as an Information Retrieval Problem** \[[pdf](papers/CIKM2024_Indutry_Reviewerly.pdf)\] \
     Negar Arabzadeh, **Sajad Ebrahimi**, Sara Salamat, Mahdi Bashari, Ebrahim Bagheri \
     *Industry Day at CIKM 2024: 33rd ACM International Conference on Information and Knowledge Management*
-- **Estimating Query Performance Through Rich Contextualized Query Representations** \[[pdf](papers/ECIR2024__QPP_Ebrahimi.pdf)\] \[[poster](images/ECIR2024_poster.jpg)\] \[[code](papers/ECIR2024__QPP_Ebrahimi.pdf)\]\
+- **Estimating Query Performance Through Rich Contextualized Query Representations** \[[pdf](papers/ECIR2024__QPP_Ebrahimi.pdf)\] \[[poster](images/ECIR2024_poster.jpg)\] \[[slides](https://docs.google.com/presentation/d/1OoB0IGa63aA7PRSGxQdPJbrp_cAcyY9QAnQASID_kag/edit?usp=sharing)\] \[[code](https://github.com/sadjadeb/Nearest-Neighbor-QPP)\]\
     **Sajad Ebrahimi**, Maryam Khodabakhsh, Negar Arabzadeh, Ebrahim Bagheri \
     *ECIR 2024: 46th European Conference on Information Retrieval* 
 
 # 💬 Talks
 - It Takes a Team to Triumph: Collaborative Expert Finding in
-Community QA Networks \[[Slides](https://docs.google.com/presentation/d/1Nh-T98BsOkuRIIzl0Y9zt2wL3vPqzspe/edit?usp=sharing&ouid=111485483658323229505&rtpof=true&sd=true)\] \
-    2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific, December 2024
-- Reviewerly: A High Quality Peer Reviewer Suggestion Application \[[Video](https://www.youtube.com/watch?v=G_KDHRc5y9Q)\] \[[Slides](https://docs.google.com/presentation/d/13gX67k30XJg-pHxfJhODHEoD2i6PVU13HL8wZRRQUGs/edit?usp=sharing)\] \
+Community QA Networks \[[slides](https://docs.google.com/presentation/d/1Nh-T98BsOkuRIIzl0Y9zt2wL3vPqzspe/edit?usp=sharing&ouid=111485483658323229505&rtpof=true&sd=true)\] \
+    2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP'24), December 2024
+- Reviewerly: A High Quality Peer Reviewer Suggestion Application \[[recording](https://www.youtube.com/watch?v=G_KDHRc5y9Q)\] \[[slides](https://docs.google.com/presentation/d/13gX67k30XJg-pHxfJhODHEoD2i6PVU13HL8wZRRQUGs/edit?usp=sharing)\] \
     2024 OpenAlex Virtual User Conference, May 2024
-- Introduction to Neural Information Retrieval \[[Code](https://colab.research.google.com/drive/1T24mWOVisVv0N45-GlAGm8lCreZmzV0v?usp=sharing)\] \[[Slides](https://docs.google.com/presentation/d/104mzYJdT4cS2gWHt4zgwXfua761CFxshoTmo-wwYVJ4/edit?usp=sharing)\] \
+- Introduction to Neural Information Retrieval \[[code](https://colab.research.google.com/drive/1T24mWOVisVv0N45-GlAGm8lCreZmzV0v?usp=sharing)\] \[[slides](https://docs.google.com/presentation/d/104mzYJdT4cS2gWHt4zgwXfua761CFxshoTmo-wwYVJ4/edit?usp=sharing)\] \
     Special Topics in Information Retrieval, University of Guelph, November 2023
 
 # 📬 News
