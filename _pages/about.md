@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Sajad Ebrahimi, an M.A.Sc student in Computer Engineering at University of Guelph. My research has been focused on Information Retrieval where I have worked on the Generative Ranking, Query Performance Prediction (QPP), and Reviewer Assignment Problem (RAP). I am working at the [LS3](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://www.torontomu.ca/electrical-computer-biomedical/people/faculty/ebrahim-bagheri/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
+I'm Sajad Ebrahimi, an M.A.Sc student in Computer Engineering at University of Guelph. My research has been focused on Information Retrieval where I have worked on the Generative Ranking, Query Performance Prediction (QPP), and Reviewer Assignment Problem (RAP). I am working at the [LS3](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://ischool.utoronto.ca/faculty-profile/bagheri-ebrahim/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
 
 You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 
@@ -36,16 +36,16 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - **Web Developer Intern**, Iliasystem, Iran. *Aug 2019 - Feb 2020*
 
 # 📝 Publications 
-- **exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem** \[[pdf](papers/ECIR_2025_exharmony.pdf)\] \[[code](https://github.com/sadjadeb/exHarmony)\] \
+- **exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem** \[[pdf](papers/ECIR2025_exharmony.pdf)\] \[[code](https://github.com/sadjadeb/exHarmony)\] \
     **Sajad Ebrahimi**\*, Sara Salamat\*, Negar Arabzadeh, Mahdi Bashari, Ebrahim Bagheri \
     *ECIR 2025: 47th European Conference on Information Retrieval*
-- **Gender Disentangled Representation Learning in Neural Rankers** \[[pdf](papers/Shirin_MLJ.pdf)\] \
+- **Gender Disentangled Representation Learning in Neural Rankers** \[[pdf](papers/MLJ2024_Gender_disentanglement.pdf)\] \[[code](https://github.com/genderdisen/genderdisen)\] \
     Shirin SeyedSalehi, Sara Salamat, Negar Arabzadeh, **Sajad Ebrahimi**, Morteza Zihayat, Ebrahim Bagheri \
     *Machine Learning Journal (MLJ) 2024*
 - **Reviewerly: Modeling the Reviewer Assignment Task as an Information Retrieval Problem** \[[pdf](papers/CIKM2024_Indutry_Reviewerly.pdf)\] \
     Negar Arabzadeh, **Sajad Ebrahimi**, Sara Salamat, Mahdi Bashari, Ebrahim Bagheri \
     *Industry Day at CIKM 2024: 33rd ACM International Conference on Information and Knowledge Management*
-- **Estimating Query Performance Through Rich Contextualized Query Representations** \[[pdf](papers/ECIR2024__QPP_Ebrahimi.pdf)\] \[[poster](images/ECIR2024_poster.jpg)\] \[[slides](https://docs.google.com/presentation/d/1OoB0IGa63aA7PRSGxQdPJbrp_cAcyY9QAnQASID_kag/edit?usp=sharing)\] \[[code](https://github.com/sadjadeb/Nearest-Neighbor-QPP)\]\
+- **Estimating Query Performance Through Rich Contextualized Query Representations** \[[pdf](papers/ECIR2024_QPP_Ebrahimi.pdf)\] \[[poster](images/ECIR2024_poster.jpg)\] \[[slides](https://docs.google.com/presentation/d/1OoB0IGa63aA7PRSGxQdPJbrp_cAcyY9QAnQASID_kag/edit?usp=sharing)\] \[[code](https://github.com/sadjadeb/Nearest-Neighbor-QPP)\]\
     **Sajad Ebrahimi**, Maryam Khodabakhsh, Negar Arabzadeh, Ebrahim Bagheri \
     *ECIR 2024: 46th European Conference on Information Retrieval* 
 
@@ -59,6 +59,8 @@ Community QA Networks \[[slides](https://docs.google.com/presentation/d/1Nh-T98B
     Special Topics in Information Retrieval, University of Guelph, November 2023
 
 # 📬 News
+- 2025/03: Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted for oral presentation at the [QPP++ workshop](https://qppworkshop.github.io/).
+- 2025/03: I won the [Braithwaite Conference Travel Grant](https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089) to attend the ECIR 2025 conference.
 - 2024/12: Our paper "exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem" got accepted at [ECIR 2025](https://ecir2025.eu/).
 - 2024/12: I presented "It Takes a Team to Triumph: Collaborative Expert Finding in Community QA Networks" paper at the [SIGIR-AP 2024](https://www.sigir-ap.org/sigir-ap-2024/) conference.
 - 2024/12: I attended the [SIGIR-AP 2024](https://www.sigir-ap.org/sigir-ap-2024/) conference in Tokyo, Japan.
