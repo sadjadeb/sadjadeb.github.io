@@ -35,10 +35,13 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - **Software Engineer Intern**, Zima, Iran. *Sept 2020 - Feb 2021*
 - **Web Developer Intern**, Iliasystem, Iran. *Aug 2019 - Feb 2020*
 
-# 📝 Publications 
+# 📝 Publications
 - **exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem** \[[pdf](papers/ECIR2025_exharmony.pdf)\] \[[code](https://github.com/sadjadeb/exHarmony)\] \
     **Sajad Ebrahimi**\*, Sara Salamat\*, Negar Arabzadeh, Mahdi Bashari, Ebrahim Bagheri \
     *ECIR 2025: 47th European Conference on Information Retrieval*
+- **Reinforcement Learning for Effective Few-Shot Ranking** \
+    Shiva Soleimany, **Sajad Ebrahimi**, Shirin SeyedSalehi, Fattane Zarrinkalam, Ebrahim Bagheri \
+    *SIGIR 2025: 48th International ACM SIGIR Conference on Research and Development in Information Retrieval*
 - **Gender Disentangled Representation Learning in Neural Rankers** \[[pdf](papers/MLJ2024_Gender_disentanglement.pdf)\] \[[code](https://github.com/genderdisen/genderdisen)\] \
     Shirin SeyedSalehi, Sara Salamat, Negar Arabzadeh, **Sajad Ebrahimi**, Morteza Zihayat, Ebrahim Bagheri \
     *Machine Learning Journal (MLJ) 2024*
@@ -50,15 +53,19 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
     *ECIR 2024: 46th European Conference on Information Retrieval* 
 
 # 💬 Talks
+- Estimating Query Performance Through Rich Contextualized Query Representations \[[slides](https://docs.google.com/presentation/d/11COmJelg5mCW3KJl57xSxs2j5I2QeyH99aNfM4u7heY/edit?usp=sharing)\] \
+    *QPP++ 2025, April 2025*
 - It Takes a Team to Triumph: Collaborative Expert Finding in
 Community QA Networks \[[slides](https://docs.google.com/presentation/d/1Nh-T98BsOkuRIIzl0Y9zt2wL3vPqzspe/edit?usp=sharing&ouid=111485483658323229505&rtpof=true&sd=true)\] \
-    2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP'24), December 2024
+    *SIGIR-AP'24, December 2024*
 - Reviewerly: A High Quality Peer Reviewer Suggestion Application \[[recording](https://www.youtube.com/watch?v=G_KDHRc5y9Q)\] \[[slides](https://docs.google.com/presentation/d/13gX67k30XJg-pHxfJhODHEoD2i6PVU13HL8wZRRQUGs/edit?usp=sharing)\] \
-    2024 OpenAlex Virtual User Conference, May 2024
+    *2024 OpenAlex Virtual User Conference, May 2024*
 - Introduction to Neural Information Retrieval \[[code](https://colab.research.google.com/drive/1T24mWOVisVv0N45-GlAGm8lCreZmzV0v?usp=sharing)\] \[[slides](https://docs.google.com/presentation/d/104mzYJdT4cS2gWHt4zgwXfua761CFxshoTmo-wwYVJ4/edit?usp=sharing)\] \
-    Special Topics in Information Retrieval, University of Guelph, November 2023
+    *Special Topics in Information Retrieval-University of Guelph, November 2023*
 
 # 📬 News
+- 2025/04: I attended the [ECIR 2025](https://ecir2025.eu/) conference in Lucca, Italy.
+- 2025/04: Our paper "Reinforcement Learning for Effective Few-Shot Ranking" got accepted at [SIGIR 2025](https://sigir2025.dei.unipd.it/).
 - 2025/03: Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted for oral presentation at the [QPP++ workshop](https://qppworkshop.github.io/).
 - 2025/03: I won the [Braithwaite Conference Travel Grant](https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089) to attend the ECIR 2025 conference.
 - 2024/12: Our paper "exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem" got accepted at [ECIR 2025](https://ecir2025.eu/).
