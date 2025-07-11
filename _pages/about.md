@@ -16,8 +16,11 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 
 # 🔍 Research Interests
 - Natural Language Processing
+  - Automated Scholarly Peer Review
 - Information Retrieval
-- Deep Learning
+  - Generative Ranking
+  - Query Performance Prediction
+- Diffusion Models
 
 # 🔥 News
 
