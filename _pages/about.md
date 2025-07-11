@@ -19,6 +19,39 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - Information Retrieval
 - Deep Learning
 
+# 🔥 News
+
+<style>
+  .scrollable {
+    max-height: 240px;
+    overflow-y: scroll;
+  }
+</style>
+
+<div class="scrollable">
+  <ul>
+    <li>2025/04: I attended the <a href="https://ecir2025.eu/">ECIR 2025</a> conference in Lucca, Italy.</li>
+    <li>2025/04: Our paper "Reinforcement Learning for Effective Few-Shot Ranking" got accepted at <a href="https://sigir2025.dei.unipd.it/">SIGIR 2025</a>.</li>
+    <li>2025/03: Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted for oral presentation at the <a href="https://qppworkshop.github.io/">QPP++ workshop</a>.</li>
+    <li>2025/03: I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089">Braithwaite Conference Travel Grant</a> to attend the ECIR 2025 conference.</li>
+    <li>2024/12: Our paper "exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem" got accepted at <a href="https://ecir2025.eu/">ECIR 2025</a>.</li>
+    <li>2024/12: I presented "It Takes a Team to Triumph: Collaborative Expert Finding in Community QA Networks" paper at the <a href="https://www.sigir-ap.org/sigir-ap-2024/">SIGIR-AP 2024</a> conference.</li>
+    <li>2024/12: I attended the <a href="https://www.sigir-ap.org/sigir-ap-2024/">SIGIR-AP 2024</a> conference in Tokyo, Japan.</li>
+    <li>2024/12: I attended the <a href="https://www.acml-conf.org/2024/">ACML 2024</a> conference in Hanoi, Vietnam.</li>
+    <li>2024/11: I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089">Braithwaite Conference Travel Grant</a> to attend the SIGIR-AP 2024 conference.</li>
+    <li>2024/11: I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089">Braithwaite Conference Travel Grant</a> to attend the ACML 2024 conference.</li>
+    <li>2024/09: Our paper "Gender Disentangled Representation Learning in Neural Rankers" got accepted at <a href="https://www.springer.com/journal/10994">Machine Learning Journal (MLJ)</a>.</li>
+    <li>2024/05: I attended the <a href="https://www.caiac.ca/en/conferences/canadianai-2024/home">Canadian AI 2024</a> conference in Guelph, Canada.</li>
+    <li>2024/05: I presented Reviewerly at the First <a href="https://help.openalex.org/events/user-meeting">OpenAlex User Conference</a>.</li>
+    <li>2024/03: I attended the <a href="https://ecir2024.org/">ECIR 2024</a> conference in Glasgow, Scotland.</li>
+    <li>2024/11: I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089">Braithwaite Conference Travel Grant</a> to attend the ECIR 2024 conference.</li>
+    <li>2023/12: Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted at <a href="https://ecir2024.org/">ECIR 2024</a>.</li>
+    <li>2023/10: I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=E6077">CEPS Dean’s Graduate Entrance Scholarships</a> for the Fall 2023 semester.</li>
+    <li>2023/04: I won the Entrance Award in Recognition of Student Excellence in the College of Engineering and Physical Sciences at the University of Guelph.</li>
+  </ul>
+</div>
+
+
 # 📚 Educations
 - **M.A.Sc. in Computer Engineering**, [University of Guelph](https://www.uoguelph.ca/), Guelph, Canada. *2023 - Present*
 - **B.Sc. in Computer Engineering**, [Ferdowsi University of Mashhad](https://um.ac.ir), Mashhad, Iran. *2018 - 2023*
@@ -62,23 +95,3 @@ Community QA Networks \[[slides](https://docs.google.com/presentation/d/1Nh-T98B
     *2024 OpenAlex Virtual User Conference, May 2024*
 - Introduction to Neural Information Retrieval \[[code](https://colab.research.google.com/drive/1T24mWOVisVv0N45-GlAGm8lCreZmzV0v?usp=sharing)\] \[[slides](https://docs.google.com/presentation/d/104mzYJdT4cS2gWHt4zgwXfua761CFxshoTmo-wwYVJ4/edit?usp=sharing)\] \
     *Special Topics in Information Retrieval-University of Guelph, November 2023*
-
-# 📬 News
-- 2025/04: I attended the [ECIR 2025](https://ecir2025.eu/) conference in Lucca, Italy.
-- 2025/04: Our paper "Reinforcement Learning for Effective Few-Shot Ranking" got accepted at [SIGIR 2025](https://sigir2025.dei.unipd.it/).
-- 2025/03: Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted for oral presentation at the [QPP++ workshop](https://qppworkshop.github.io/).
-- 2025/03: I won the [Braithwaite Conference Travel Grant](https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089) to attend the ECIR 2025 conference.
-- 2024/12: Our paper "exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem" got accepted at [ECIR 2025](https://ecir2025.eu/).
-- 2024/12: I presented "It Takes a Team to Triumph: Collaborative Expert Finding in Community QA Networks" paper at the [SIGIR-AP 2024](https://www.sigir-ap.org/sigir-ap-2024/) conference.
-- 2024/12: I attended the [SIGIR-AP 2024](https://www.sigir-ap.org/sigir-ap-2024/) conference in Tokyo, Japan.
-- 2024/12: I attended the [ACML 2024](https://www.acml-conf.org/2024/) conference in Hanoi, Vietnam.
-- 2024/11: I won the [Braithwaite Conference Travel Grant](https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089) to attend the SIGIR-AP 2024 conference.
-- 2024/11: I won the [Braithwaite Conference Travel Grant](https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089) to attend the ACML 2024 conference.
-- 2024/09: Our paper "Gender Disentangled Representation Learning in Neural Rankers" got accepted at [Machine Learning Journal (MLJ)](https://www.springer.com/journal/10994).
-- 2024/05: I attended the [Canadian AI 2024](https://www.caiac.ca/en/conferences/canadianai-2024/home) conference in Guelph, Canada.
-- 2024/05: I presented Reviewerly at the First [OpenAlex User Conference](https://help.openalex.org/events/user-meeting).
-- 2024/03: I attended the [ECIR 2024](https://ecir2024.org/) conference in Glasgow, Scotland.
-- 2024/11: I won the [Braithwaite Conference Travel Grant](https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089) to attend the ECIR 2024 conference.
-- 2023/12: Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted at [ECIR 2024](https://ecir2024.org/).
-- 2023/10: I won the [CEPS Dean’s Graduate Entrance Scholarships](https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=E6077) for the Fall 2023 semester.
-- 2023/04: I won the Entrance Award in Recognition of Student Excellence in the College of Engineering and Physical Sciences at the University of Guelph.
