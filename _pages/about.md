@@ -33,6 +33,7 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 
 <div class="scrollable">
   <ul>
+    <li>2025/07: I am co-organizing the <a href="https://proactllm.github.io/">ProActLLM workshop</a> at <a href="https://www.cikm2025.org/">CIKM 2025</a> which explores proactive and adaptive behaviors of LLMs. Submit your work and be part of the conversation!</li>
     <li>2025/04: I attended the <a href="https://ecir2025.eu/">ECIR 2025</a> conference in Lucca, Italy.</li>
     <li>2025/04: Our paper "Reinforcement Learning for Effective Few-Shot Ranking" got accepted at <a href="https://sigir2025.dei.unipd.it/">SIGIR 2025</a>.</li>
     <li>2025/03: Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted for oral presentation at the <a href="https://qppworkshop.github.io/">QPP++ workshop</a>.</li>
@@ -60,8 +61,8 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - **B.Sc. in Computer Engineering**, [Ferdowsi University of Mashhad](https://um.ac.ir), Mashhad, Iran. *2018 - 2023*
 
 # 🤓 Research Experiences
-- **Faculty Affiliate Researcher**, Vector Institute, Toronto, Canada. *July 2024 - Present*
 - **Graduate Research Assistant**, University of Guelph, Guelph, Canada. *Sept 2023 - Present*
+  - **Faculty Affiliate Researcher**, Vector Institute, Toronto, Canada. *July 2024 - Present*
 - **Research Intern**, Toronto Metropolitan University, Toronto, Canada. *Sept 2022 - Sept 2023*
 - **Research Assistant**, Ferdowsi University of Mashhad, Mashhad, Iran. *July 2021 - Sept 2022*
 
@@ -98,3 +99,7 @@ Community QA Networks \[[slides](https://docs.google.com/presentation/d/1Nh-T98B
     *2024 OpenAlex Virtual User Conference, May 2024*
 - Introduction to Neural Information Retrieval \[[code](https://colab.research.google.com/drive/1T24mWOVisVv0N45-GlAGm8lCreZmzV0v?usp=sharing)\] \[[slides](https://docs.google.com/presentation/d/104mzYJdT4cS2gWHt4zgwXfua761CFxshoTmo-wwYVJ4/edit?usp=sharing)\] \
     *Special Topics in Information Retrieval-University of Guelph, November 2023*
+
+# Academic Services
+- **Program Committee Member**: SIGIR'25, ICTIR'25, ReasoningandPlanningforLLMs@ICLR'25, COLING'25 
+- **Organizer**: ProActLLM 2025 Workshop at CIKM 2025
