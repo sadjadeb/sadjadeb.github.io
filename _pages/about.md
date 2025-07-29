@@ -73,19 +73,19 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 - **Web Developer Intern**, Iliasystem, Iran. *Aug 2019 - Feb 2020*
 
 # 📝 Publications
-- **exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem** \[[pdf](papers/ECIR2025_exharmony.pdf)\] \[[code](https://github.com/sadjadeb/exHarmony)\] \
+- **exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem** \[[pdf](papers/2025_ECIR_Exharmony_Ebrahimi.pdf)\] \[[code](https://github.com/sadjadeb/exHarmony)\] \
     **Sajad Ebrahimi**\*, Sara Salamat\*, Negar Arabzadeh, Mahdi Bashari, Ebrahim Bagheri \
     *ECIR 2025: 47th European Conference on Information Retrieval*
-- **Reinforcement Learning for Effective Few-Shot Ranking** \
+- **Reinforcement Learning for Effective Few-Shot Ranking** \[[pdf](papers/2025_SIGIR_Reinforcement_Soleimany.pdf)\] \
     Shiva Soleimany, **Sajad Ebrahimi**, Shirin SeyedSalehi, Fattane Zarrinkalam, Ebrahim Bagheri \
     *SIGIR 2025: 48th International ACM SIGIR Conference on Research and Development in Information Retrieval*
-- **Gender Disentangled Representation Learning in Neural Rankers** \[[pdf](papers/MLJ2024_Gender_disentanglement.pdf)\] \[[code](https://github.com/genderdisen/genderdisen)\] \
+- **Gender Disentangled Representation Learning in Neural Rankers** \[[pdf](papers/2024_MLJ_Gender_Seyedsalehi)\] \[[code](https://github.com/genderdisen/genderdisen)\] \
     Shirin SeyedSalehi, Sara Salamat, Negar Arabzadeh, **Sajad Ebrahimi**, Morteza Zihayat, Ebrahim Bagheri \
     *Machine Learning Journal (MLJ) 2024*
-- **Reviewerly: Modeling the Reviewer Assignment Task as an Information Retrieval Problem** \[[pdf](papers/CIKM2024_Indutry_Reviewerly.pdf)\] \
+- **Reviewerly: Modeling the Reviewer Assignment Task as an Information Retrieval Problem** \[[pdf](papers/2024_CIKM_Reviewerly_Arabzadeh.pdf)\] \
     Negar Arabzadeh, **Sajad Ebrahimi**, Sara Salamat, Mahdi Bashari, Ebrahim Bagheri \
     *Industry Day at CIKM 2024: 33rd ACM International Conference on Information and Knowledge Management*
-- **Estimating Query Performance Through Rich Contextualized Query Representations** \[[pdf](papers/ECIR2024_QPP_Ebrahimi.pdf)\] \[[poster](images/ECIR2024_poster.jpg)\] \[[slides](https://docs.google.com/presentation/d/1OoB0IGa63aA7PRSGxQdPJbrp_cAcyY9QAnQASID_kag/edit?usp=sharing)\] \[[code](https://github.com/sadjadeb/Nearest-Neighbor-QPP)\]\
+- **Estimating Query Performance Through Rich Contextualized Query Representations** \[[pdf](papers/2024_ECIR_Estimating_Ebrahimi.pdf)\] \[[poster](images/ECIR2024_poster.jpg)\] \[[slides](https://docs.google.com/presentation/d/1OoB0IGa63aA7PRSGxQdPJbrp_cAcyY9QAnQASID_kag/edit?usp=sharing)\] \[[code](https://github.com/sadjadeb/Nearest-Neighbor-QPP)\]\
     **Sajad Ebrahimi**, Maryam Khodabakhsh, Negar Arabzadeh, Ebrahim Bagheri \
     *ECIR 2024: 46th European Conference on Information Retrieval* 
 
@@ -101,5 +101,5 @@ Community QA Networks \[[slides](https://docs.google.com/presentation/d/1Nh-T98B
     *Special Topics in Information Retrieval-University of Guelph, November 2023*
 
 # Academic Services
-- **Program Committee Member**: SIGIR'25, ICTIR'25, ReasoningandPlanningforLLMs@ICLR'25, COLING'25 
+- **Program Committee Member**: WSDM'26, SIGIR'25, ICTIR'25, ReasoningandPlanningforLLMs@ICLR'25, COLING'25 
 - **Organizer**: ProActLLM 2025 Workshop at CIKM 2025
