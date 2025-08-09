@@ -10,17 +10,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Sajad Ebrahimi, an M.A.Sc student in Computer Engineering at University of Guelph. My research has been focused on Information Retrieval where I have worked on the Generative Ranking, Query Performance Prediction (QPP), and Reviewer Assignment Problem (RAP). I am working at the [LS3](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://ischool.utoronto.ca/faculty-profile/bagheri-ebrahim/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
+I am a graduate researcher in Natural Language Processing and Information Retrieval, currently pursuing my M.A.Sc. in Computer Engineering at the University of Guelph. I am working at the [LS3](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://ischool.utoronto.ca/faculty-profile/bagheri-ebrahim/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
 
-You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
+My research spans two main directions:
+1. **Diffusion-based generative ranking**: applying denoising diffusion models to improve ranking effectiveness in information retrieval systems.
+2. **Enhancing the peer-review process**: developing models and tools to assess and improve review quality, aiming to make scholarly evaluation more reliable and fair.
 
-# 🔍 Research Interests
-- Natural Language Processing
-  - Automated Scholarly Peer Review
-- Information Retrieval
-  - Generative Ranking
-  - Query Performance Prediction
-- Diffusion Models
+I have published multiple papers in venues such as SIGIR, ECIR, and CIKM, and combine my research with industry experience as a Data Scientist, where I design and deploy large-scale ranking systems, vector search infrastructures, and NLP pipelines. Currently, I work at [Reviewerly](https://reviewer.ly/), developing and maintaining large-scale scholarly search and matching systems used in peer-review and grant assignment.
+
+You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
 # 🔥 News
 
