@@ -24,13 +24,15 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
 <style>
   .scrollable {
-    max-height: 240px;
+    max-height: 250px;
     overflow-y: scroll;
   }
 </style>
 
 <div class="scrollable">
   <ul>
+    <li>2025/08: Our proposal for a presentation in the Industry Day talks, "Building Trustworthy Peer Review Quality Assessment Systems", got accepted at CIKM 2025.</li>
+    <li>2025/08: I attended the <a href="https://kdd2025.kdd.org/">KDD 2025</a> conference in Toronto, Canada. I served as a student volunteer for the first time and loved the experience!</li>
     <li>2025/07: I am co-organizing the <a href="https://proactllm.github.io/">ProActLLM workshop</a> at <a href="https://www.cikm2025.org/">CIKM 2025</a> which explores proactive and adaptive behaviors of LLMs. Submit your work and be part of the conversation!</li>
     <li>2025/04: I attended the <a href="https://ecir2025.eu/">ECIR 2025</a> conference in Lucca, Italy.</li>
     <li>2025/04: Our paper "Reinforcement Learning for Effective Few-Shot Ranking" got accepted at <a href="https://sigir2025.dei.unipd.it/">SIGIR 2025</a>.</li>
@@ -43,9 +45,10 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
     <li>2024/11: I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089">Braithwaite Conference Travel Grant</a> to attend the SIGIR-AP 2024 conference.</li>
     <li>2024/11: I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089">Braithwaite Conference Travel Grant</a> to attend the ACML 2024 conference.</li>
     <li>2024/09: Our paper "Gender Disentangled Representation Learning in Neural Rankers" got accepted at <a href="https://www.springer.com/journal/10994">Machine Learning Journal (MLJ)</a>.</li>
+    <li>2025/08: Our proposal for a presentation in the Industry Day talks, "Reviewerly: Modeling the Reviewer Assignment Task as an Information Retrieval Problem", got accepted at CIKM 2024.</li>
     <li>2024/05: I attended the <a href="https://www.caiac.ca/en/conferences/canadianai-2024/home">Canadian AI 2024</a> conference in Guelph, Canada.</li>
     <li>2024/05: I presented Reviewerly at the First <a href="https://help.openalex.org/events/user-meeting">OpenAlex User Conference</a>.</li>
-    <li>2024/03: I attended the <a href="https://ecir2024.org/">ECIR 2024</a> conference in Glasgow, Scotland.</li>
+    <li>2024/03: I attended the <a href="https://ecir2024.org/">ECIR 2024</a> conference in Glasgow, Scotland. It marked my introduction to the research community and my first time engaging with key figures in the field!</li>
     <li>2024/11: I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089">Braithwaite Conference Travel Grant</a> to attend the ECIR 2024 conference.</li>
     <li>2023/12: Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted at <a href="https://ecir2024.org/">ECIR 2024</a>.</li>
     <li>2023/10: I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=E6077">CEPS Dean’s Graduate Entrance Scholarships</a> for the Fall 2023 semester.</li>
