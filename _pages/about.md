@@ -56,22 +56,6 @@ You can find my CV [here](/files/SajadEbrahimi_CV.pdf).
 </div>
 
 
-# 📚 Educations
-- **M.A.Sc. in Computer Engineering**, [University of Guelph](https://www.uoguelph.ca/), Guelph, Canada. *2023 - Present*
-- **B.Sc. in Computer Engineering**, [Ferdowsi University of Mashhad](https://um.ac.ir), Mashhad, Iran. *2018 - 2023*
-
-# 🤓 Research Experiences
-- **Graduate Research Assistant**, University of Guelph, Guelph, Canada. *Sept 2023 - Present*
-  - **Faculty Affiliate Researcher**, Vector Institute, Toronto, Canada. *July 2024 - Present*
-- **Research Intern**, Toronto Metropolitan University, Toronto, Canada. *Sept 2022 - Sept 2023*
-- **Research Assistant**, Ferdowsi University of Mashhad, Mashhad, Iran. *July 2021 - Sept 2022*
-
-# 💻 Work Experiences
-- **Data Scientist**, Reviewerly, Canada. *Nov 2023 - Present*
-- **Data Analyst**, Kava Tahlil, Iran. *Sept 2021 – Aug 2022*
-- **Software Engineer Intern**, Zima, Iran. *Sept 2020 - Feb 2021*
-- **Web Developer Intern**, Iliasystem, Iran. *Aug 2019 - Feb 2020*
-
 # 📝 Publications
 - **exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem** \[[pdf](papers/2025_ECIR_Exharmony_Ebrahimi.pdf)\] \[[code](https://github.com/sadjadeb/exHarmony)\] \
     **Sajad Ebrahimi**\*, Sara Salamat\*, Negar Arabzadeh, Mahdi Bashari, Ebrahim Bagheri \
@@ -99,7 +83,3 @@ Community QA Networks \[[slides](https://docs.google.com/presentation/d/1Nh-T98B
     *2024 OpenAlex Virtual User Conference, May 2024*
 - Introduction to Neural Information Retrieval \[[code](https://colab.research.google.com/drive/1T24mWOVisVv0N45-GlAGm8lCreZmzV0v?usp=sharing)\] \[[slides](https://docs.google.com/presentation/d/104mzYJdT4cS2gWHt4zgwXfua761CFxshoTmo-wwYVJ4/edit?usp=sharing)\] \
     *Special Topics in Information Retrieval-University of Guelph, November 2023*
-
-# Academic Services
-- **Program Committee Member**: WSDM'26, SIGIR'25, ICTIR'25, ReasoningandPlanningforLLMs@ICLR'25, COLING'25 
-- **Organizer**: ProActLLM 2025 Workshop at CIKM 2025
