@@ -3,18 +3,6 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Research Interests"
-    url: "/#-research-interests"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Research Experiences"
-    url: "/#-research-experiences"
-
-  - title: "Work Experiences"
-    url: "/#-work-experiences"
-
   - title: "News"
     url: "/#-news"
 
