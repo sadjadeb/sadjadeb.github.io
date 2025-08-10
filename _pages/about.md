@@ -12,11 +12,9 @@ redirect_from:
 
 I am a graduate researcher in Natural Language Processing and Information Retrieval, currently pursuing my M.A.Sc. in Computer Engineering at the University of Guelph. I am working at the [LS3](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://ischool.utoronto.ca/faculty-profile/bagheri-ebrahim/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
 
-My research spans two main directions:
-1. **Diffusion-based generative ranking**: applying denoising diffusion models to improve ranking effectiveness in information retrieval systems.
-2. **Enhancing the peer-review process**: developing models and tools to assess and improve review quality, aiming to make scholarly evaluation more reliable and fair.
+My research focuses on two main directions. The first is diffusion-based generative ranking, where I explore how denoising diffusion models can be adapted to improve ranking effectiveness in search and retrieval tasks. The second is enhancing the peer-review process, designing models and tools to evaluate and improve review quality, with the goal of making scholarly evaluation more consistent, transparent, and fair.
 
-I have published multiple papers in venues such as SIGIR, ECIR, and CIKM, and combine my research with industry experience as a Data Scientist, where I design and deploy large-scale ranking systems, vector search infrastructures, and NLP pipelines. Currently, I work at [Reviewerly](https://reviewer.ly/), developing and maintaining large-scale scholarly search and matching systems used in peer-review and grant assignment.
+I have published multiple papers in venues such as SIGIR, ECIR, and CIKM, and combine my research with industry experience as a Data Scientist, where I design and deploy large-scale ranking systems, vector search infrastructures, and NLP pipelines. Currently, I am working at [Reviewerly](https://reviewer.ly/), developing and maintaining large-scale scholarly search and matching systems used in peer-review and grant assignment.
 
 You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
