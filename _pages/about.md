@@ -10,6 +10,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<style>
+  .scrollable {
+    max-height: 250px;
+    overflow-y: scroll;
+  }
+  .announcement {
+    color: #bc1e1e;
+  }
+</style>
+
+<br>
+
 I am a graduate researcher in Natural Language Processing and Information Retrieval, currently pursuing my M.A.Sc. in Computer Engineering at the University of Guelph. I am working at the [LS3](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://ischool.utoronto.ca/faculty-profile/bagheri-ebrahim/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
 
 My research focuses on two main directions. The first is diffusion-based generative ranking, where I explore how denoising diffusion models can be adapted to improve ranking effectiveness in search and retrieval tasks. The second is enhancing the peer-review process, designing models and tools to evaluate and improve review quality, with the goal of making scholarly evaluation more consistent, transparent, and fair.
@@ -19,19 +31,12 @@ I have published multiple papers in venues such as SIGIR, ECIR, and CIKM, and co
 You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
 <br>
-<p style="color: #b42323;">
-Submit your original research and innovations to <a href="https://proactllm.github.io/" style="color: #b42323; text-decoration: underline;">ProActLLM</a> at CIKM 2025! We welcome work on proactive conversational AI, including algorithms, evaluation, and real-world applications that anticipate user needs and enhance interaction.
+<p class="announcement">
+Submit your original research and innovations to <a href="https://proactllm.github.io/" class="announcement" style="text-decoration: underline;">ProActLLM  at CIKM 2025!</a> We welcome work on proactive conversational AI, including algorithms, evaluation, and real-world applications that anticipate user needs and enhance interaction.
 </p>
 <br>
 
 # 🔥 News
-
-<style>
-  .scrollable {
-    max-height: 250px;
-    overflow-y: scroll;
-  }
-</style>
 
 <div class="scrollable">
   <ul>
