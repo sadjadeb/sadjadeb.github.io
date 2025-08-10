@@ -18,6 +18,12 @@ I have published multiple papers in venues such as SIGIR, ECIR, and CIKM, and co
 
 You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
+<br>
+<p style="color: #b42323;">
+Submit your original research and innovations to <a href="https://proactllm.github.io/" style="color: #b42323; text-decoration: underline;">ProActLLM</a> at CIKM 2025! We welcome work on proactive conversational AI, including algorithms, evaluation, and real-world applications that anticipate user needs and enhance interaction.
+</p>
+<br>
+
 # 🔥 News
 
 <style>
