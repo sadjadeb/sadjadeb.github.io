@@ -30,16 +30,22 @@ I have published multiple papers in venues such as SIGIR, ECIR, and CIKM, and co
 
 You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
-<br>
-<p class="announcement">
-Submit your original research and innovations to <a href="https://proactllm.github.io/" class="announcement" style="text-decoration: underline;">ProActLLM  at CIKM 2025!</a> We welcome work on proactive conversational AI, including algorithms, evaluation, and real-world applications that anticipate user needs and enhance interaction.
-</p>
-<br>
+[//]: # (<br>)
+
+[//]: # (<p class="announcement">)
+
+[//]: # (Submit your original research and innovations to <a href="https://proactllm.github.io/" class="announcement" style="text-decoration: underline;">ProActLLM  at CIKM 2025!</a> We welcome work on proactive conversational AI, including algorithms, evaluation, and real-world applications that anticipate user needs and enhance interaction.)
+
+[//]: # (</p>)
+
+[//]: # (<br>)
 
 # 🔥 News
 
 <div class="scrollable">
   <ul>
+    <li>2025/08: Our paper "Query Performance Prediction Using Neural Query Space Proximity" got accepted at TIST.</li>
+    <li>2025/08: Our paper "RottenReviews: Benchmarking Review Quality with Human and LLM-Based Judgments" got accepted at the <a href="https://cikm2025.org/">CIKM 2025</a>.</li>
     <li>2025/08: Our proposal for a presentation in the Industry Day talks, "Building Trustworthy Peer Review Quality Assessment Systems", got accepted at CIKM 2025.</li>
     <li>2025/08: I attended the <a href="https://kdd2025.kdd.org/">KDD 2025</a> conference in Toronto, Canada. I served as a student volunteer for the first time and loved the experience!</li>
     <li>2025/07: I am co-organizing the <a href="https://proactllm.github.io/">ProActLLM workshop</a> at <a href="https://www.cikm2025.org/">CIKM 2025</a> which explores proactive and adaptive behaviors of LLMs. Submit your work and be part of the conversation!</li>
@@ -59,15 +65,23 @@ Submit your original research and innovations to <a href="https://proactllm.gith
     <li>2024/05: I presented Reviewerly at the First <a href="https://help.openalex.org/events/user-meeting">OpenAlex User Conference</a>.</li>
     <li>2024/03: I attended the <a href="https://ecir2024.org/">ECIR 2024</a> conference in Glasgow, Scotland. It marked my introduction to the research community and my first time engaging with key figures in the field!</li>
     <li>2024/11: I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089">Braithwaite Conference Travel Grant</a> to attend the ECIR 2024 conference.</li>
-    <li>2023/12: Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted at <a href="https://ecir2024.org/">ECIR 2024</a>.</li>
+    <li>2023/12: My first paper got accepted! Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted at <a href="https://ecir2024.org/">ECIR 2024</a>.</li>
     <li>2023/10: I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=E6077">CEPS Dean’s Graduate Entrance Scholarships</a> for the Fall 2023 semester.</li>
+    <li>2023/09: I started my M.A.Sc. in Computer Engineering at the University of Guelph.</li>
     <li>2023/04: I won the Entrance Award in Recognition of Student Excellence in the College of Engineering and Physical Sciences at the University of Guelph.</li>
+    <li>2023/07: I graduated with a B.Sc. in Computer Engineering from Ferdowsi University of Mashhad.</li>
   </ul>
 </div>
 
 
 # 📝 Publications
-- **exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem** \[[pdf](papers/2025_ECIR_Exharmony_Ebrahimi.pdf)\] \[[code](https://github.com/sadjadeb/exHarmony)\] \
+- **Query Performance Prediction Using Neural Query Space Proximity** \[[pdf](papers/2025_TIST_QSDQPP_Bigdeli.pdf)\] \[[code](https://dl.acm.org/doi/abs/10.1145/3762197)\] \
+    Amin Bigdeli, **Sajad Ebrahimi**, Negar Arabzadeh, Sara Salamat, Shirin SeyedSalehi, Maryam Khodabakhsh, Fattane Zarrinkalam, Ebrahim Bagheri \
+    *ACM Transactions on Intelligent Systems and Technology (TIST)*
+- **RottenReviews: Benchmarking Review Quality with Human and LLM-Based Judgments** \[[pdf](papers/2025_CIKM_RottenReviews_Ebrahimi.pdf)\] \[[code](https://github.com/Reviewerly-Inc/RottenReviews)\] \[[data](https://huggingface.co/datasets/Reviewerly/RottenReviews)\] \
+    **Sajad Ebrahimi**, Soroush Sadeghian, Ali Ghorbanpour, Negar Arabzadeh, Sara Salamat, Muhan Li, Hai Son Le, Mahdi Bashari and Ebrahim Bagheri \
+    *CIKM 2025: 34th ACM International Conference on Information and Knowledge Management*
+- **exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem** \[[pdf](papers/2025_ECIR_Exharmony_Ebrahimi.pdf)\] \[[code](https://github.com/Reviewerly-Inc/exHarmony)\] \[[data](https://huggingface.co/datasets/Reviewerly/exHarmony)\] \
     **Sajad Ebrahimi**\*, Sara Salamat\*, Negar Arabzadeh, Mahdi Bashari, Ebrahim Bagheri \
     *ECIR 2025: 47th European Conference on Information Retrieval*
 - **Reinforcement Learning for Effective Few-Shot Ranking** \[[pdf](papers/2025_SIGIR_Reinforcement_Soleimany.pdf)\] \
