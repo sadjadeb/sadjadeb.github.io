@@ -75,7 +75,7 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
 
 # 📝 Publications
-- **Query Performance Prediction Using Neural Query Space Proximity** \[[pdf](papers/2025_TIST_QSDQPP_Bigdeli.pdf)\] \[[code](https://dl.acm.org/doi/abs/10.1145/3762197)\] \
+- **Query Performance Prediction Using Neural Query Space Proximity** \[[pdf](https://dl.acm.org/doi/abs/10.1145/3762197)\] \[[code](https://github.com/sadjadeb/QSD_QPP)\] \
     Amin Bigdeli, **Sajad Ebrahimi**, Negar Arabzadeh, Sara Salamat, Shirin SeyedSalehi, Maryam Khodabakhsh, Fattane Zarrinkalam, Ebrahim Bagheri \
     *ACM Transactions on Intelligent Systems and Technology (TIST)*
 - **RottenReviews: Benchmarking Review Quality with Human and LLM-Based Judgments** \[[pdf](papers/2025_CIKM_RottenReviews_Ebrahimi.pdf)\] \[[code](https://github.com/Reviewerly-Inc/RottenReviews)\] \[[data](https://huggingface.co/datasets/Reviewerly/RottenReviews)\] \
@@ -89,7 +89,7 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
     *SIGIR 2025: 48th International ACM SIGIR Conference on Research and Development in Information Retrieval*
 - **Gender Disentangled Representation Learning in Neural Rankers** \[[pdf](papers/2024_MLJ_Gender_Seyedsalehi)\] \[[code](https://github.com/genderdisen/genderdisen)\] \
     Shirin SeyedSalehi, Sara Salamat, Negar Arabzadeh, **Sajad Ebrahimi**, Morteza Zihayat, Ebrahim Bagheri \
-    *Machine Learning Journal (MLJ) 2024*
+    *Machine Learning Journal (MLJ)*
 - **Reviewerly: Modeling the Reviewer Assignment Task as an Information Retrieval Problem** \[[pdf](papers/2024_CIKM_Reviewerly_Arabzadeh.pdf)\] \
     Negar Arabzadeh, **Sajad Ebrahimi**, Sara Salamat, Mahdi Bashari, Ebrahim Bagheri \
     *Industry Day at CIKM 2024: 33rd ACM International Conference on Information and Knowledge Management*
