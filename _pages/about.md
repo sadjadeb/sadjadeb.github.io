@@ -44,6 +44,7 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
 <div class="scrollable">
   <ul>
+    <li>[2025/10] I attended the <a href="https://colmweb.org/">COLM 2025</a> conference in Montreal, Canada.</li>
     <li>[2025/08] Our paper "Query Performance Prediction Using Neural Query Space Proximity" got accepted at TIST.</li>
     <li>[2025/08] Our paper "RottenReviews: Benchmarking Review Quality with Human and LLM-Based Judgments" got accepted at the <a href="https://cikm2025.org/">CIKM 2025</a>.</li>
     <li>[2025/08] Our proposal for a presentation in the Industry Day talks, "Building Trustworthy Peer Review Quality Assessment Systems", got accepted at CIKM 2025.</li>
@@ -87,7 +88,7 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
 - **Reinforcement Learning for Effective Few-Shot Ranking** \[[pdf](papers/2025_SIGIR_Reinforcement_Soleimany.pdf)\] \
     Shiva Soleimany, **Sajad Ebrahimi**, Shirin SeyedSalehi, Fattane Zarrinkalam, Ebrahim Bagheri \
     *SIGIR 2025: 48th International ACM SIGIR Conference on Research and Development in Information Retrieval*
-- **Gender Disentangled Representation Learning in Neural Rankers** \[[pdf](papers/2024_MLJ_Gender_Seyedsalehi)\] \[[code](https://github.com/genderdisen/genderdisen)\] \
+- **Gender Disentangled Representation Learning in Neural Rankers** \[[pdf](papers/2024_MLJ_Gender_Seyedsalehi.pdf)\] \[[code](https://github.com/genderdisen/genderdisen)\] \
     Shirin SeyedSalehi, Sara Salamat, Negar Arabzadeh, **Sajad Ebrahimi**, Morteza Zihayat, Ebrahim Bagheri \
     *Machine Learning Journal (MLJ)*
 - **Reviewerly: Modeling the Reviewer Assignment Task as an Information Retrieval Problem** \[[pdf](papers/2024_CIKM_Reviewerly_Arabzadeh.pdf)\] \
