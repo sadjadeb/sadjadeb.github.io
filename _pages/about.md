@@ -44,6 +44,9 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
 <div class="scrollable">
   <ul>
+    <li>[2025/12] I successfully defended my M.A.Sc. thesis 🎓.</li>
+    <li>[2025/12] Our proposal for a presentation in the Industry Day talks, "Can LLMs Uphold Research Integrity? Evaluating the Role of LLMs in Peer Review Quality", got accepted at <a href="https://wsdm-conference.org/2026/">WSDM 2026</a>.</li>
+    <li>[2025/11] I attended the <a href="https://cikm2025.org/">CIKM 2025</a> conference in Seoul, South Korea. I also had my first experience organizing a workshop, which was a valuable learning opportunity. It was especially rewarding to see strong community interest and engagement with our workshop.</li>
     <li>[2025/10] I attended the <a href="https://colmweb.org/">COLM 2025</a> conference in Montreal, Canada.</li>
     <li>[2025/08] Our paper "Query Performance Prediction Using Neural Query Space Proximity" got accepted at TIST.</li>
     <li>[2025/08] Our paper "RottenReviews: Benchmarking Review Quality with Human and LLM-Based Judgments" got accepted at the <a href="https://cikm2025.org/">CIKM 2025</a>.</li>
