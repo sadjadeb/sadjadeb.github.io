@@ -21,6 +21,8 @@ redirect_from:
 </style>
 
 <br>
+<br>
+<br>
 
 I am a graduate researcher in Natural Language Processing and Information Retrieval, currently pursuing my M.A.Sc. in Computer Engineering at the University of Guelph. I am working at the [LS3](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://ischool.utoronto.ca/faculty-profile/bagheri-ebrahim/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
 
@@ -29,6 +31,9 @@ My research focuses on two main directions. The first is diffusion-based generat
 I have published multiple papers in venues such as SIGIR, ECIR, and CIKM, and combine my research with industry experience as a Data Scientist, where I design and deploy large-scale ranking systems, vector search infrastructures, and NLP pipelines. Currently, I am working at [Reviewerly](https://reviewer.ly/), developing and maintaining large-scale scholarly search and matching systems used in peer-review and grant assignment.
 
 You can find my CV [here](/SajadEbrahimi_CV.pdf).
+
+<br>
+<br>
 
 [//]: # (<br>)
 
@@ -101,7 +106,9 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
     **Sajad Ebrahimi**, Maryam Khodabakhsh, Negar Arabzadeh, Ebrahim Bagheri \
     *ECIR 2024: 46th European Conference on Information Retrieval* 
 
-# 💬 Talks
+# 💬 Presentations and Talks
+- RottenReviews: Benchmarking Review Quality with Human and LLM-Based Judgments \[[slides](https://docs.google.com/presentation/d/1W3VURzhdRabZzIe9y7CM9BiUEaEdUIz7jTlPcsryuKs/edit?usp=sharing)\] \
+    *CIKM 2025, November 2025*
 - Estimating Query Performance Through Rich Contextualized Query Representations \[[slides](https://docs.google.com/presentation/d/11COmJelg5mCW3KJl57xSxs2j5I2QeyH99aNfM4u7heY/edit?usp=sharing)\] \
     *QPP++ 2025, April 2025*
 - It Takes a Team to Triumph: Collaborative Expert Finding in
