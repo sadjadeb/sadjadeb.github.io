@@ -111,8 +111,7 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
     *CIKM 2025, November 2025*
 - Estimating Query Performance Through Rich Contextualized Query Representations \[[slides](https://docs.google.com/presentation/d/11COmJelg5mCW3KJl57xSxs2j5I2QeyH99aNfM4u7heY/edit?usp=sharing)\] \
     *QPP++ 2025, April 2025*
-- It Takes a Team to Triumph: Collaborative Expert Finding in
-Community QA Networks \[[slides](https://docs.google.com/presentation/d/1Nh-T98BsOkuRIIzl0Y9zt2wL3vPqzspe/edit?usp=sharing&ouid=111485483658323229505&rtpof=true&sd=true)\] \
+- It Takes a Team to Triumph: Collaborative Expert Finding in Community QA Networks \[[slides](https://docs.google.com/presentation/d/1Nh-T98BsOkuRIIzl0Y9zt2wL3vPqzspe/edit?usp=sharing&ouid=111485483658323229505&rtpof=true&sd=true)\] \
     *SIGIR-AP'24, December 2024*
 - Reviewerly: A High Quality Peer Reviewer Suggestion Application \[[recording](https://www.youtube.com/watch?v=G_KDHRc5y9Q)\] \[[slides](https://docs.google.com/presentation/d/13gX67k30XJg-pHxfJhODHEoD2i6PVU13HL8wZRRQUGs/edit?usp=sharing)\] \
     *2024 OpenAlex Virtual User Conference, May 2024*
