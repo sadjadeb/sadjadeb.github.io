@@ -24,7 +24,9 @@ redirect_from:
 <br>
 <br>
 
-I am a graduate researcher in Natural Language Processing and Information Retrieval, currently pursuing my M.A.Sc. in Computer Engineering at the University of Guelph. I am working at the [LS3](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://ischool.utoronto.ca/faculty-profile/bagheri-ebrahim/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). Prior to that, I worked under the supervision of [Dr. Behshid Behkamal](http://prof.um.ac.ir/behkamal/) at Ferdowsi University of Mashhad.
+I am a graduate researcher in Natural Language Processing and Information Retrieval, currently working as a Research Assistant at the University of Toronto. I completed my M.A.Sc. in Computer Engineering at the University of Guelph. During my master’s, I worked at the [LS3](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://ischool.utoronto.ca/faculty-profile/bagheri-ebrahim/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). 
+
+[//]: # (Prior to that, I worked under the supervision of [Dr. Behshid Behkamal]&#40;http://prof.um.ac.ir/behkamal/&#41; at Ferdowsi University of Mashhad.)
 
 My research focuses on two main directions. The first is diffusion-based generative ranking, where I explore how denoising diffusion models can be adapted to improve ranking effectiveness in search and retrieval tasks. The second is enhancing the peer-review process, designing models and tools to evaluate and improve review quality, with the goal of making scholarly evaluation more consistent, transparent, and fair.
 
@@ -49,6 +51,7 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
 <div class="scrollable">
   <ul>
+    <li>[2026/01] Our demo paper "PeeriScope: A Multi-Faceted Framework for Evaluating Peer Review Quality" got accepted at <a href="https://www2026.thewebconf.org/">WebConf 2026</a>. Try <a href="https://app.reviewer.ly/app/peeriscope">Peeriscope</a> now and see how your reviews measure up!</li>
     <li>[2025/12] I successfully defended my M.A.Sc. thesis 🎓.</li>
     <li>[2025/12] Our proposal for a presentation in the Industry Day talks, "Can LLMs Uphold Research Integrity? Evaluating the Role of LLMs in Peer Review Quality", got accepted at <a href="https://wsdm-conference.org/2026/">WSDM 2026</a>.</li>
     <li>[2025/11] I attended the <a href="https://cikm2025.org/">CIKM 2025</a> conference in Seoul, South Korea. I also had my first experience organizing a workshop, which was a valuable learning opportunity. It was especially rewarding to see strong community interest and engagement with our workshop.</li>
@@ -73,8 +76,9 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
     <li>[2024/05] I attended the <a href="https://www.caiac.ca/en/conferences/canadianai-2024/home">Canadian AI 2024</a> conference in Guelph, Canada.</li>
     <li>[2024/05] I presented Reviewerly at the First <a href="https://help.openalex.org/events/user-meeting">OpenAlex User Conference</a>.</li>
     <li>[2024/03] I attended the <a href="https://ecir2024.org/">ECIR 2024</a> conference in Glasgow, Scotland. It marked my introduction to the research community and my first time engaging with key figures in the field!</li>
-    <li>[2024/11] I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089">Braithwaite Conference Travel Grant</a> to attend the ECIR 2024 conference.</li>
-    <li>[2023/12] My first paper got accepted! Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted at <a href="https://ecir2024.org/">ECIR 2024</a>.</li>
+    <li>[2024/03] I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089">Braithwaite Conference Travel Grant</a> to attend the ECIR 2024 conference.</li>
+    <li>[2023/12] Milestone unlocked: my first paper acceptance! Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted at <a href="https://ecir2024.org/">ECIR 2024</a>.</li>
+    <li>[2023/11] I started working as a Data Scientist at Reviewerly, focusing on information retrieval, ranking, and large-scale data mining.</li>
     <li>[2023/10] I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=E6077">CEPS Dean’s Graduate Entrance Scholarships</a> for the Fall 2023 semester.</li>
     <li>[2023/09] I started my M.A.Sc. in Computer Engineering at the University of Guelph.</li>
     <li>[2023/04] I won the Entrance Award in Recognition of Student Excellence in the College of Engineering and Physical Sciences at the University of Guelph.</li>
