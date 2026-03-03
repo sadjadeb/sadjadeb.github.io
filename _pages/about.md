@@ -24,13 +24,13 @@ redirect_from:
 <br>
 <br>
 
-I am a graduate researcher in Natural Language Processing and Information Retrieval, currently working as a Research Assistant at the University of Toronto. I completed my M.A.Sc. in Computer Engineering at the University of Guelph. During my master’s, I worked at the [LS3](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://ischool.utoronto.ca/faculty-profile/bagheri-ebrahim/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). 
+I am a researcher in Natural Language Processing and Information Retrieval, currently working as a Research Assistant at the University of Toronto. I completed my M.A.Sc. in Computer Engineering at the University of Guelph. During my master’s, I worked at the [LS3](https://ls3.rnet.torontomu.ca/) under the supervision of [Dr. Ebrahim Bagheri](https://ischool.utoronto.ca/faculty-profile/bagheri-ebrahim/) and [Dr. Fattane Zarrinkalam](https://www.uoguelph.ca/engineering/people/fattane-zarrinkalam). 
 
 [//]: # (Prior to that, I worked under the supervision of [Dr. Behshid Behkamal]&#40;http://prof.um.ac.ir/behkamal/&#41; at Ferdowsi University of Mashhad.)
 
 My research focuses on two main directions. The first is diffusion-based generative ranking, where I explore how denoising diffusion models can be adapted to improve ranking effectiveness in search and retrieval tasks. The second is enhancing the peer-review process, designing models and tools to evaluate and improve review quality, with the goal of making scholarly evaluation more consistent, transparent, and fair.
 
-I have published multiple papers in venues such as SIGIR, ECIR, and CIKM, and combine my research with industry experience as a Data Scientist, where I design and deploy large-scale ranking systems, vector search infrastructures, and NLP pipelines. Currently, I am working at [Reviewerly](https://reviewer.ly/), developing and maintaining large-scale scholarly search and matching systems used in peer-review and grant assignment.
+I have published multiple papers in venues such as SIGIR, WSDM, and CIKM, and combine my research with industry experience as a Data Scientist, where I design and deploy large-scale ranking systems, vector search infrastructures, and NLP pipelines. Currently, I am working at [Reviewerly](https://reviewer.ly/), developing and maintaining large-scale scholarly search and matching systems used in peer-review and grant assignment.
 
 You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
@@ -88,11 +88,23 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
 
 # 📝 Publications
+- **From Noise to Order: Learning to Rank via Denoising Diffusion** \[[pdf](https://arxiv.org/pdf/2602.11453)\] \[[code](https://github.com/sadjadeb/DiffusionRank)\] \
+    **Sajad Ebrahimi**, Bhaskar Mitra, Negar Arabzadeh, Ye Yuan, Haolun Wu, Fattane Zarrinkalam, Ebrahim Bagheri \
+    *Preprint*
+- **Can LLMs Uphold Research Integrity? Evaluating the Role of LLMs in Peer Review Quality** \[[pdf](https://dl.acm.org/doi/epdf/10.1145/3773966.3784970)\] \
+    Negar Arabzadeh, **Sajad Ebrahimi**, Soroush Sadeghian, Mohammad Hosseini, Alireza Daqiq, Hai Son Le, Mahdi Bashari, Ebrahim Bagheri \
+    *Industry Day at WSDM 2026: 19th ACM International Conference on Web Search and Data Mining*
 - **Query Performance Prediction Using Neural Query Space Proximity** \[[pdf](https://dl.acm.org/doi/abs/10.1145/3762197)\] \[[code](https://github.com/sadjadeb/QSD_QPP)\] \
     Amin Bigdeli, **Sajad Ebrahimi**, Negar Arabzadeh, Sara Salamat, Shirin SeyedSalehi, Maryam Khodabakhsh, Fattane Zarrinkalam, Ebrahim Bagheri \
     *ACM Transactions on Intelligent Systems and Technology (TIST)*
 - **RottenReviews: Benchmarking Review Quality with Human and LLM-Based Judgments** \[[pdf](papers/2025_CIKM_RottenReviews_Ebrahimi.pdf)\] \[[code](https://github.com/Reviewerly-Inc/RottenReviews)\] \[[data](https://huggingface.co/datasets/Reviewerly/RottenReviews)\] \
     **Sajad Ebrahimi**, Soroush Sadeghian, Ali Ghorbanpour, Negar Arabzadeh, Sara Salamat, Muhan Li, Hai Son Le, Mahdi Bashari and Ebrahim Bagheri \
+    *CIKM 2025: 34th ACM International Conference on Information and Knowledge Management*
+- **Building Trustworthy Peer Review Quality Assessment Systems** \
+    Negar Arabzadeh, **Sajad Ebrahimi**, Ali Ghorbanpour, Soroush Sadeghian, Sara Salamat, Muhan Li, Hai Son Le, Mahdi Bashari, Ebrahim Bagheri \
+    *Industry Day at CIKM 2025: 34th ACM International Conference on Information and Knowledge Management*
+- **ProActLLM: Proactive Conversational Information Seeking with Large Language Models**  \
+    Shubham Chatterjee, Xi Wang, Shuo Zhang, **Sajad Ebrahimi**, Zhaochun Ren, Debasis Ganguly, Gareth Jones, Emine Yilmaz, Hamed Zamani \
     *CIKM 2025: 34th ACM International Conference on Information and Knowledge Management*
 - **exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem** \[[pdf](papers/2025_ECIR_Exharmony_Ebrahimi.pdf)\] \[[code](https://github.com/Reviewerly-Inc/exHarmony)\] \[[data](https://huggingface.co/datasets/Reviewerly/exHarmony)\] \
     **Sajad Ebrahimi**\*, Sara Salamat\*, Negar Arabzadeh, Mahdi Bashari, Ebrahim Bagheri \
