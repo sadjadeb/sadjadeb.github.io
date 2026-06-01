@@ -51,33 +51,19 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
 <div class="scrollable">
   <ul>
-    <li>[2026/01] Our demo paper "PeeriScope: A Multi-Faceted Framework for Evaluating Peer Review Quality" got accepted at <a href="https://www2026.thewebconf.org/">WebConf 2026</a>. Try <a href="https://app.reviewer.ly/app/peeriscope">Peeriscope</a> now and see how your reviews measure up!</li>
-    <li>[2025/12] I successfully defended my M.A.Sc. thesis 🎓.</li>
-    <li>[2025/12] Our proposal for a presentation in the Industry Day talks, "Can LLMs Uphold Research Integrity? Evaluating the Role of LLMs in Peer Review Quality", got accepted at <a href="https://wsdm-conference.org/2026/">WSDM 2026</a>.</li>
+    <li>[2026/04] 3 papers got accepted at <a href="https://sigir2026.org/en-AU">SIGIR 2026</a>.</li>
+    <li>[2026/02] I have been admitted to the PhD program at the University of Toronto! I'll begin this next chapter starting Fall 2026.</li>
+    <li>[2025/12] I defended my M.A.Sc. thesis 🎓.</li>
     <li>[2025/11] I attended the <a href="https://cikm2025.org/">CIKM 2025</a> conference in Seoul, South Korea. I also had my first experience organizing a workshop, which was a valuable learning opportunity. It was especially rewarding to see strong community interest and engagement with our workshop.</li>
     <li>[2025/10] I attended the <a href="https://colmweb.org/">COLM 2025</a> conference in Montreal, Canada.</li>
-    <li>[2025/08] Our paper "Query Performance Prediction Using Neural Query Space Proximity" got accepted at TIST.</li>
-    <li>[2025/08] Our paper "RottenReviews: Benchmarking Review Quality with Human and LLM-Based Judgments" got accepted at the <a href="https://cikm2025.org/">CIKM 2025</a>.</li>
-    <li>[2025/08] Our proposal for a presentation in the Industry Day talks, "Building Trustworthy Peer Review Quality Assessment Systems", got accepted at CIKM 2025.</li>
     <li>[2025/08] I attended the <a href="https://kdd2025.kdd.org/">KDD 2025</a> conference in Toronto, Canada. I served as a student volunteer for the first time and loved the experience!</li>
     <li>[2025/07] I am co-organizing the <a href="https://proactllm.github.io/">ProActLLM workshop</a> at <a href="https://www.cikm2025.org/">CIKM 2025</a> which explores proactive and adaptive behaviors of LLMs. Submit your work and be part of the conversation!</li>
     <li>[2025/04] I attended the <a href="https://ecir2025.eu/">ECIR 2025</a> conference in Lucca, Italy.</li>
-    <li>[2025/04] Our paper "Reinforcement Learning for Effective Few-Shot Ranking" got accepted at <a href="https://sigir2025.dei.unipd.it/">SIGIR 2025</a>.</li>
-    <li>[2025/03] Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted for oral presentation at the <a href="https://qppworkshop.github.io/">QPP++ workshop</a>.</li>
-    <li>[2025/03] I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089">Braithwaite Conference Travel Grant</a> to attend the ECIR 2025 conference.</li>
-    <li>[2024/12] Our paper "exHarmony: Authorship and Citations for Benchmarking the Reviewer Assignment Problem" got accepted at <a href="https://ecir2025.eu/">ECIR 2025</a>.</li>
-    <li>[2024/12] I presented "It Takes a Team to Triumph: Collaborative Expert Finding in Community QA Networks" paper at the <a href="https://www.sigir-ap.org/sigir-ap-2024/">SIGIR-AP 2024</a> conference.</li>
     <li>[2024/12] I attended the <a href="https://www.sigir-ap.org/sigir-ap-2024/">SIGIR-AP 2024</a> conference in Tokyo, Japan.</li>
     <li>[2024/12] I attended the <a href="https://www.acml-conf.org/2024/">ACML 2024</a> conference in Hanoi, Vietnam.</li>
-    <li>[2024/11] I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089">Braithwaite Conference Travel Grant</a> to attend the SIGIR-AP 2024 conference.</li>
-    <li>[2024/11] I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089">Braithwaite Conference Travel Grant</a> to attend the ACML 2024 conference.</li>
-    <li>[2024/09] Our paper "Gender Disentangled Representation Learning in Neural Rankers" got accepted at <a href="https://www.springer.com/journal/10994">Machine Learning Journal (MLJ)</a>.</li>
-    <li>[2025/08] Our proposal for a presentation in the Industry Day talks, "Reviewerly: Modeling the Reviewer Assignment Task as an Information Retrieval Problem", got accepted at CIKM 2024.</li>
     <li>[2024/05] I attended the <a href="https://www.caiac.ca/en/conferences/canadianai-2024/home">Canadian AI 2024</a> conference in Guelph, Canada.</li>
-    <li>[2024/05] I presented Reviewerly at the First <a href="https://help.openalex.org/events/user-meeting">OpenAlex User Conference</a>.</li>
     <li>[2024/03] I attended the <a href="https://ecir2024.org/">ECIR 2024</a> conference in Glasgow, Scotland. It marked my introduction to the research community and my first time engaging with key figures in the field!</li>
-    <li>[2024/03] I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T6089">Braithwaite Conference Travel Grant</a> to attend the ECIR 2024 conference.</li>
-    <li>[2023/12] Milestone unlocked: my first paper acceptance! Our paper "Estimating Query Performance Through Rich Contextualized Query Representations" got accepted at <a href="https://ecir2024.org/">ECIR 2024</a>.</li>
+    <li>[2023/12] Milestone unlocked: my first paper acceptance! Our paper got accepted at <a href="https://ecir2024.org/">ECIR 2024</a>.</li>
     <li>[2023/11] I started working as a Data Scientist at Reviewerly, focusing on information retrieval, ranking, and large-scale data mining.</li>
     <li>[2023/10] I won the <a href="https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=E6077">CEPS Dean’s Graduate Entrance Scholarships</a> for the Fall 2023 semester.</li>
     <li>[2023/09] I started my M.A.Sc. in Computer Engineering at the University of Guelph.</li>
