@@ -74,9 +74,24 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
 
 # 📝 Publications
+- **Diffusion-based generative modeling for expert team formation** \[[pdf](https://www.sciencedirect.com/science/article/pii/S0306457326002530)\] \[[code](https://github.com/sadjadeb/DiffTF)\] \
+    Mohammad Hossein Saliminabi, **Sajad Ebrahimi**, Radin Hamidi Rad, Dimitrios Androutsos, Fattane Zarrinkalam, Ebrahim Bagheri \
+    *Information Processing & Management (IP&M)*
 - **From Noise to Order: Learning to Rank via Denoising Diffusion** \[[pdf](https://arxiv.org/pdf/2602.11453)\] \[[code](https://github.com/sadjadeb/DiffusionRank)\] \
     **Sajad Ebrahimi**, Bhaskar Mitra, Negar Arabzadeh, Ye Yuan, Haolun Wu, Fattane Zarrinkalam, Ebrahim Bagheri \
-    *Preprint*
+    *ICTIR 2026: International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval*
+- **PeerPrism: Peer Evaluation Expertise vs Review-writing AI** \[[pdf](https://arxiv.org/pdf/2604.14513)\] \
+    Soroush Sadeghian, Alireza Daqiq, Reza Cheraghi, **Sajad Ebrahimi**, Negar Arabzadeh, Ebrahim Bagheri \
+    *SIGIR 2026: 49th International ACM SIGIR Conference on Research and Development in Information Retrieval*
+- **From Doxa to Logos in Scientific Peer Review** \
+    Negar Arabzadeh, **Sajad Ebrahimi**, Alireza Daqiq, Soroush Sadeghian, Mohammad Hosseini, Hai Son Le, Mahdi Bashari, Ebrahim Bagheri \
+    *SIGIR 2026: 49th International ACM SIGIR Conference on Research and Development in Information Retrieval*
+- **Peerispect: Claim Verification in Scientific Peer Reviews** \[[pdf](https://arxiv.org/pdf/2604.17667)\] \[[Demo](https://app.reviewer.ly/app/peerispect)] \
+    Ali Ghorbanpour, Soroush Sadeghian, Alireza Daqiq, **Sajad Ebrahimi**, Negar Arabzadeh, Mohammad Hosseini, Ebrahim Bagheri \
+    *SIGIR 2026: 49th International ACM SIGIR Conference on Research and Development in Information Retrieval*
+- **PeeriScope: A Multi-Faceted Framework for Evaluating Peer Review Quality** \[[pdf](https://arxiv.org/pdf/2604.24071)\] \[[Demo](https://app.reviewer.ly/app/peeriscope)] \
+    **Sajad Ebrahimi**, Soroush Sadeghian, Ali Ghorbanpour, Negar Arabzadeh, Sara Salamat, Mohammad Hosseini, Hai Son Le, Mahdi Bashari, Ebrahim Bagheri \
+    *WWW 2026: The Web Conference*
 - **Can LLMs Uphold Research Integrity? Evaluating the Role of LLMs in Peer Review Quality** \[[pdf](https://dl.acm.org/doi/epdf/10.1145/3773966.3784970)\] \
     Negar Arabzadeh, **Sajad Ebrahimi**, Soroush Sadeghian, Mohammad Hosseini, Alireza Daqiq, Hai Son Le, Mahdi Bashari, Ebrahim Bagheri \
     *Industry Day at WSDM 2026: 19th ACM International Conference on Web Search and Data Mining*
