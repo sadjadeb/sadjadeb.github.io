@@ -22,6 +22,8 @@ redirect_from:
     max-width: 480px;
     width: 100%;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 </style>
 
