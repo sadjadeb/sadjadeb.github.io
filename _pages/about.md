@@ -18,12 +18,17 @@ redirect_from:
   .announcement {
     color: #bc1e1e;
   }
-  .papers-wordcloud {
+  .papers-wordcloud-figure {
+    display: block;
     max-width: 480px;
+    margin: 1.5em auto 0;
+    text-align: center;
+  }
+  .papers-wordcloud {
+    max-width: 100%;
     width: 100%;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
   }
 </style>
 
@@ -144,6 +149,7 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
 # ☁️ Papers Word Cloud
 
-A word cloud of keywords from my publications, highlighting recurring themes in my research.
-
-<img src="/images/papers_wordcloud.png" alt="Word cloud of my papers" class="papers-wordcloud">
+<figure class="papers-wordcloud-figure">
+  <img src="/images/papers_wordcloud.png" alt="Word cloud of my papers" class="papers-wordcloud">
+  <figcaption>A word cloud of my publications.</figcaption>
+</figure>
