@@ -18,6 +18,11 @@ redirect_from:
   .announcement {
     color: #bc1e1e;
   }
+  .papers-wordcloud {
+    max-width: 480px;
+    width: 100%;
+    display: block;
+  }
 </style>
 
 <br>
@@ -134,3 +139,9 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
     *2024 OpenAlex Virtual User Conference, May 2024*
 - Introduction to Neural Information Retrieval \[[code](https://colab.research.google.com/drive/1T24mWOVisVv0N45-GlAGm8lCreZmzV0v?usp=sharing)\] \[[slides](https://docs.google.com/presentation/d/104mzYJdT4cS2gWHt4zgwXfua761CFxshoTmo-wwYVJ4/edit?usp=sharing)\] \
     *Special Topics in Information Retrieval-University of Guelph, November 2023*
+
+# ☁️ Papers Word Cloud
+
+A word cloud of keywords from my publications, highlighting recurring themes in my research.
+
+<img src="/images/papers_wordcloud.png" alt="Word cloud of my papers" class="papers-wordcloud">
