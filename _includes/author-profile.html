@@ -124,6 +124,9 @@
         <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-download" aria-hidden="true"></i> CV</a></li>
       {% endif %}
     </ul>
+    {% if author.quote %}
+      <blockquote class="author__quote">{{ author.quote }}</blockquote>
+    {% endif %}
       <div class="author__urls_sm">
       {% if author.uri %}
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
