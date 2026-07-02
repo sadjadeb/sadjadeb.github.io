@@ -68,6 +68,7 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
 <div class="scrollable">
   <ul>
+    <li>[2026/06] I co-presented a tutorial on AI-generated content detection methods at <a href="https://cifar.ca/next-generation/cifar-ai-frontiers-school/">CIFAR AI Frontiers School 2026 - AI Safety Edition</a>.</li>
     <li>[2026/04] 3 papers got accepted at <a href="https://sigir2026.org/en-AU">SIGIR 2026</a>.</li>
     <li>[2026/02] I have been admitted to the PhD program at the University of Toronto! I'll begin this next chapter starting Fall 2026.</li>
     <li>[2025/12] I defended my M.A.Sc. thesis 🎓.</li>
@@ -141,6 +142,8 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
     *ECIR 2024: 46th European Conference on Information Retrieval* 
 
 # 💬 Presentations and Talks
+- AI-Generated Content Detection Methods: A Bird's-Eye View and Hands-On Tutorial with DetectZoo \[[slides](https://docs.google.com/presentation/d/1LA0NIVSamUa49zavNSl1e1KDVnF4J5xMturNg8teOwY/edit?usp=sharing)\] \
+    *CIFAR AI Frontiers School 2026 - AI Safety Edition, June 2026*
 - RottenReviews: Benchmarking Review Quality with Human and LLM-Based Judgments \[[slides](https://docs.google.com/presentation/d/1W3VURzhdRabZzIe9y7CM9BiUEaEdUIz7jTlPcsryuKs/edit?usp=sharing)\] \
     *CIKM 2025, November 2025*
 - Estimating Query Performance Through Rich Contextualized Query Representations \[[slides](https://docs.google.com/presentation/d/11COmJelg5mCW3KJl57xSxs2j5I2QeyH99aNfM4u7heY/edit?usp=sharing)\] \
