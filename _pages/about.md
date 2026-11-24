@@ -56,13 +56,11 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
 [//]: # (<br>)
 
-[//]: # (<p class="announcement">)
+<p class="announcement">
+Submit your work to the <a href="https://repair-workshop.github.io/" class="announcement" style="text-decoration: underline;">REPAIR Bridge Program at AAAI 2027!</a> Join us in Rethinking Peer Review in the Age of Artificial Intelligence, dedicated to developing peer-review systems that are more reliable, scalable, fair, and accountable.
+</p>
 
-[//]: # (Submit your original research and innovations to <a href="https://proactllm.github.io/" class="announcement" style="text-decoration: underline;">ProActLLM  at CIKM 2025!</a> We welcome work on proactive conversational AI, including algorithms, evaluation, and real-world applications that anticipate user needs and enhance interaction.)
-
-[//]: # (</p>)
-
-[//]: # (<br>)
+<br>
 
 # 🔥 News
 
