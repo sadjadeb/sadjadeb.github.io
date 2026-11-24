@@ -68,6 +68,13 @@ You can find my CV [here](/SajadEbrahimi_CV.pdf).
 
 <div class="scrollable">
   <ul>
+    <li>[2026/12] 2 papers got accepted at <a href="https://eacl2027.org/">EACL 2027</a>.</li>
+    <li>[2026/11] I am co-organizing the <a href="https://repair-workshop.github.io/">REPAIR Bridge Program</a> at AAAI 2027, focusing on Rethinking Peer Review in the Age of Artificial Intelligence. Submit your work!</li>
+    <li>[2026/11] I attended the <a href="https://cikm2026.diag.uniroma1.it/">CIKM 2026</a> conference in Rome, Italy.</li>
+    <li>[2026/10] I attended the <a href="https://2026.emnlp.org/">EMNLP 2026</a> conference in Budapest, Hungary.</li>
+    <li>[2026/10] I gave a talk on "Building Detectors Courts Can Trust" at the CIFAR Safeguarding Courts from Synthetic AI Content Workshop.</li>
+    <li>[2026/08] 1 paper got accepted at <a href="https://2026.emnlp.org/">EMNLP 2026</a>.</li>
+    <li>[2026/08] 6 papers got accepted at <a href="https://cikm2026.org/">CIKM 2026</a>.</li>
     <li>[2026/06] I co-presented a tutorial on AI-generated content detection methods at <a href="https://cifar.ca/next-generation/cifar-ai-frontiers-school/">CIFAR AI Frontiers School 2026 - AI Safety Edition</a>.</li>
     <li>[2026/04] 3 papers got accepted at <a href="https://sigir2026.org/en-AU">SIGIR 2026</a>.</li>
     <li>[2026/02] I have been admitted to the PhD program at the University of Toronto! I'll begin this next chapter starting Fall 2026.</li>
