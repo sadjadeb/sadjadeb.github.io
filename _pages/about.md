@@ -97,6 +97,33 @@ Submit your work to the <a href="https://repair-workshop.github.io/" class="anno
 
 
 # 📝 Publications
+- **SurfacePrint: Typographic Fingerprints of LLMs** \
+    Wentao Zhang, **Sajad Ebrahimi**, Nima Jamali, Bardia Shirsalimian, Kelly McConvey, Jalehsadat Mahdavimoghaddam, Maksym Taranukhin, Maura R. Grossman, Vered Shwartz, Ebrahim Bagheri, Yuntian Deng \
+    *EACL 2027: 20th Conference of the European Chapter of the Association for Computational Linguistics*
+- **ADORE: Iterative Query Expansion with Retrieval-Grounded Relevance Feedback** \[[pdf](https://arxiv.org/pdf/2606.13905)\] \
+    Amin Bigdeli, Negar Arabzadeh, Radin Hamidi Rad, **Sajad Ebrahimi**, Charles L. A. Clarke, Ebrahim Bagheri \
+    *Findings of the Association for Computational Linguistics: EACL 2027*
+- **Peerify: Benchmarking Peer-Review Claim Verification** \[[pdf](https://arxiv.org/pdf/2604.14513)\] \
+    Alireza Daghighfarsoodeh, **Sajad Ebrahimi**, Ali Ghorbanpour, Soroush Sadeghian, Radin Cheraghi, Negar Arabzadeh, Ebrahim Bagheri \
+    *EMNLP 2026: Conference on Empirical Methods in Natural Language Processing (Industry Track)*
+- **A Benchmark & Dataset for Detecting AI-Manipulated Visual Evidence in the Court System** \[[pdf](https://dl.acm.org/doi/10.1145/3799682.3840194)\] \
+    Kelly McConvey, **Sajad Ebrahimi**, Nima Jamali, Jalehsadat Mahdavimoghaddam, Matina Mahdizadeh Sani, Maksym Taranukhin, Wentao Zhang, Jaquelyn Burkell, Yuntian Deng, Karen Eltis, Maura Grossman, Vered Shwartz, Ebrahim Bagheri \
+    *CIKM 2026: 35th ACM International Conference on Information and Knowledge Management*
+- **SEEK: Self-Evaluative Exploration for Knowledge Retrieval** \[[pdf](https://dl.acm.org/doi/10.1145/3799682.3840031)\] \
+    Amin Bigdeli, Radin Hamidi Rad, Negar Arabzadeh, **Sajad Ebrahimi**, Hai Son Le, Charles L. A. Clarke, Ebrahim Bagheri \
+    *CIKM 2026: 35th ACM International Conference on Information and Knowledge Management*
+- **Judging a Review by its Cover: A Reliability Analysis of LLM-based Peer Review Evaluation Metrics** \[[pdf](https://dl.acm.org/doi/10.1145/3799682.3840033)\] \
+    Shakiba Amirshahi, **Sajad Ebrahimi**, Hai Son Le, Negar Arabzadeh, Ebrahim Bagheri \
+    *CIKM 2026: 35th ACM International Conference on Information and Knowledge Management*
+- **Reasoning-Aware Utility Estimation for Retrieval-Augmented Generation** \[[pdf](https://dl.acm.org/doi/10.1145/3799682.3840041)\] \
+    Abbas Saleminezhad, **Sajad Ebrahimi**, Negar Arabzadeh, Ebrahim Bagheri \
+    *CIKM 2026: 35th ACM International Conference on Information and Knowledge Management*
+- **Route Me If You Can: A Benchmark for Query Reformulation Selection** \[[pdf](https://dl.acm.org/doi/10.1145/3799682.3840215)\] \
+    Hai Son Le, Negar Arabzadeh, Amin Bigdeli, Radin Hamidi Rad, **Sajad Ebrahimi**, Charles L. A. Clarke, Ebrahim Bagheri \
+    *CIKM 2026: 35th ACM International Conference on Information and Knowledge Management*
+- **Reliable Evaluation of AI Assisted Peer Review** \[[pdf](https://dl.acm.org/doi/10.1145/3799682.3839259)\] \
+    Negar Arabzadeh, **Sajad Ebrahimi**, Shakiba Amirshahi, Seyed Mohammad Hosseini, Hai Son Le, Mahdi Bashari, Ebrahim Bagheri \
+    *CIKM 2026: 35th ACM International Conference on Information and Knowledge Management*
 - **Diffusion-based generative modeling for expert team formation** \[[pdf](https://www.sciencedirect.com/science/article/pii/S0306457326002530)\] \[[code](https://github.com/sadjadeb/DiffTF)\] \
     Mohammad Hossein Saliminabi, **Sajad Ebrahimi**, Radin Hamidi Rad, Dimitrios Androutsos, Fattane Zarrinkalam, Ebrahim Bagheri \
     *Information Processing & Management (IP&M)*
