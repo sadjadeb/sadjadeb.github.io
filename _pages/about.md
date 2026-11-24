@@ -174,7 +174,9 @@ Submit your work to the <a href="https://repair-workshop.github.io/" class="anno
     *ECIR 2024: 46th European Conference on Information Retrieval* 
 
 # 💬 Presentations and Talks
-- AI-Generated Content Detection Methods: A Bird's-Eye View and Hands-On Tutorial with DetectZoo \[[slides](https://docs.google.com/presentation/d/1LA0NIVSamUa49zavNSl1e1KDVnF4J5xMturNg8teOwY/edit?usp=sharing)\] \
+- Building Detectors Courts Can Trust (A Bird’s-Eye View of the Existing AI-Generated Content Detectors) \[[slides](https://docs.google.com/presentation/d/11y6-W1YTwokx3PxCHm6UfI5_w7uonsWE6xdcFO9zmQk/edit?usp=sharing)\] \
+    *CIFAR Safeguarding Courts from Synthetic AI Content Workshop, October 2026*
+- AI-Generated Content Detection Methods: A Bird's-Eye View and Hands-On Tutorial with DetectZoo \[[code](https://colab.research.google.com/drive/1T5e2bKRx7GrvY1ATSAj_rae8gD72jnpv?usp=sharing)\] \[[slides](https://docs.google.com/presentation/d/1LA0NIVSamUa49zavNSl1e1KDVnF4J5xMturNg8teOwY/edit?usp=sharing)\] \
     *CIFAR AI Frontiers School 2026 - AI Safety Edition, June 2026*
 - RottenReviews: Benchmarking Review Quality with Human and LLM-Based Judgments \[[slides](https://docs.google.com/presentation/d/1W3VURzhdRabZzIe9y7CM9BiUEaEdUIz7jTlPcsryuKs/edit?usp=sharing)\] \
     *CIKM 2025, November 2025*
