@@ -66,7 +66,7 @@ Submit your work to the <a href="https://repair-workshop.github.io/" class="anno
 
 <div class="scrollable">
   <ul>
-    <li>[2026/12] 2 papers got accepted at <a href="https://eacl2027.org/">EACL 2027</a>.</li>
+    <li>[2026/11] 2 papers got accepted at <a href="https://eacl2027.org/">EACL 2027</a>.</li>
     <li>[2026/11] I am co-organizing the <a href="https://repair-workshop.github.io/">REPAIR Bridge Program</a> at AAAI 2027, focusing on Rethinking Peer Review in the Age of Artificial Intelligence. Submit your work!</li>
     <li>[2026/11] I attended the <a href="https://cikm2026.diag.uniroma1.it/">CIKM 2026</a> conference in Rome, Italy.</li>
     <li>[2026/10] I attended the <a href="https://2026.emnlp.org/">EMNLP 2026</a> conference in Budapest, Hungary.</li>
