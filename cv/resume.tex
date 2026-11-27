@@ -1,0 +1,206 @@
+\documentclass[]{resume-openfont}
+
+\hypersetup{
+pdftitle={SajadEbrahimi - CV},
+pdfsubject={SajadEbrahimi - CV},
+pdfauthor={Sajad Ebrahimi},
+}
+
+\resetHeaderAndFooter
+
+%--------------------------------------------------------------
+% Convenience command - make it easy to fill template
+
+\newcommand{\resumeHeading}[4]{\runsubsection{#1}{ | #2}\hfill\location{#3 | #4}\fakeNewLine}
+
+\newcommand{\resumeHeadingWoLoc}[4]{\runsubsection{#1}{ | #2}\hfill\location{#3}\fakeNewLine}
+
+
+\newcommand{\publicationHeading}[3]{{#1}\hfill\location{#3}\\ \descript{#2}\\}
+
+
+\newcommand{\projectHeading}[4]{\customLink{#2}{#1}\hfill\descript{#3}\\}
+
+ 
+%--------------------------------------------------------------
+\begin{document}
+
+%--------------------------------------------------------------
+%     Profile
+%--------------------------------------------------------------
+\newcommand{\yourName}{Sajad Ebrahimi}
+% How you want it to show up on the resume
+\newcommand{\yourWebsite}{Homepage}
+% vs how you want it to show up. If it's the same you can just replace "\yourWebsiteLink" with "yourWebsite"
+\newcommand{\yourWebsiteLink}{https://sadjadeb.github.io/}
+\newcommand{\yourEmail}{sadjadeb@gmail.com}
+\newcommand{\yourPhone}{+14378184048}
+\newcommand{\githubUserName}{sadjadeb}
+\newcommand{\linkedInUserName}{sadjadeb}
+\newcommand{\Twitter}{sadjadeb}
+\newcommand{\yourGoogleScholar}{M03zdaAAAAAJ}
+\newcommand{\yourLocation}{Toronto, ON}
+
+\begin{center}
+    % \Huge \scshape {\yourName} \\ \vspace{4pt}
+    \fontsize{30 pt}{30 pt} \textbf{\yourName} \\ \vspace{4pt}
+    \small 
+    \customLink{mailto:\yourEmail}{\faEnvelope \: \yourEmail}
+    $|$  \customLink{\yourWebsiteLink}{\faGlobe \: sadjadeb.github.io}
+    $|$ \customLink{https://github.com/\githubUserName}{\faGithub \: \githubUserName}
+    $|$ \customLink{https://www.linkedin.com/in/\linkedInUserName}{\faLinkedin \: LinkedIn}
+    $|$  \customLink{https://scholar.google.co.in/citations?user=M03zdaAAAAAJ&hl=en\yourGoogleScholar}{\faGraduationCap \: Google Scholar}
+    $|$ \faHome \: \yourLocation \\
+\end{center}
+
+%--------------------------------------------------------------
+%     Summary
+%--------------------------------------------------------------
+\vspace{10pt}
+\hspace{-21pt}
+\section{Summary}
+\vspace{-30pt}
+
+\begin{bullets}[leftmargin=*]
+    \item Graduate researcher in \textbf{NLP and Information Retrieval} with 20+ peer-reviewed publications (EMNLP, SIGIR, EACL); focus on AI-Generated Content Detection, RAG Efficiency, Query Reformulation, Agentic workflows, and Peer Review Quality Assesment. For the latest list of my publications, please refer to \customLink{https://scholar.google.co.in/citations?user=M03zdaAAAAAJ&hl=en}{my Google Scholar}.
+    
+    \item Over 6 years of hands-on coding experience, spanning roles as a Data Scientist and a Software Engineer, specializing in designing, building, and deploying production-scale software and machine learning systems. Advanced proficiency in PyTorch, Django, Transformers, etc., with extensive experience delivering production-grade machine learning solutions.
+\end{bullets}
+
+\sectionsep
+
+%--------------------------------------------------------------
+%     Work Experience
+%--------------------------------------------------------------
+\vspace{-5pt}
+
+\section{Work Experience}
+
+\resumeHeadingWoLoc{Research Assistant}{University of Toronto}{Fall 2025 - Fall 2026}{}
+\begin{bullets}
+    \item Researched and developed methods for safeguarding courts and legal documents against synthetic AI-generated content.
+    \item Led development of the DetectZoo package, integrating 65 detectors and 25 datasets for AI-generated content detection.
+    \item Investigated agentic workflows for Deep Research systems, focusing on retrieval, query expansion, and search optimization.
+\end{bullets}
+\sectionsep
+
+\resumeHeading{Data Scientist}{\customLink{https://reviewer.ly/}{Reviewerly}}{Toronto, Canada}{Nov 2023 - }
+\begin{bullets}
+    \item Directed research on evaluating scientific peer reviews by defining 13 distinct metrics to assess review quality, resulting in the RottenReviews benchmark and Peeriscope tool.
+    \item Built and now maintain a Milvus-backed index of 260M+ papers and 96M+ authors, delivering sub-second similarity search that powers Reviewerly's matching engine, adopted by peer-review venues and grant agencies in its first release cycle.
+    \item Designed and implemented an end-to-end pipeline to generate a made-to-order reviewer pool for each venue and assign appropriate reviewers to submissions.
+    % \item Parallelized a keyphrase extraction model across 6 GPUs to process 200M records, accelerating the process by 10x.
+\end{bullets}
+\sectionsep
+
+
+\resumeHeadingWoLoc{Graduate Research Assistant}{University of Guelph}{Fall 2023 - Summer 2025}{}
+\begin{bullets}
+    \item Worked on applying the concept of DDPMs to Learning-to-Rank, resulting in a model that improves NDCG by up to 3.25\% on benchmark datasets.
+    \item Proposed a novel Query Performance Prediction (QPP) framework using Nearest Neighbor Queries, achieving up to 4\% improvement in Kendall's $\tau$ on benchmark datasets.
+\end{bullets}
+\sectionsep
+
+
+\resumeHeading{Data Analyst}{Kava Investment Analysis}{Tehran, Iran}{Sept 2021 - Aug 2022}
+\begin{bullets}
+    \item Built a scalable web scraper that collected data from 4+ sources across the Tehran Stock Exchange.
+    % reducing manual data collection time by 70\%.
+    \item Designed and implemented a PostgreSQL data warehouse: defined tables, indexes, and ETL pipelines for equities, bonds, and derivatives, which reduced query latency by 80\%.    
+\end{bullets}
+\sectionsep
+
+\resumeHeading{Software Engineer Intern}{Zima \& Iliasystem Co.}{Mashhad, Iran}{Aug 2019 - Feb 2021}
+\begin{bullets}
+    \item Implemented REST APIs and DB schemas for 3 internal tools used by 10+ engineers; shipped 2 internal UIs (HTML/CSS/JS).
+\end{bullets}
+\sectionsep
+
+%--------------------------------------------------------------
+%     Education
+%--------------------------------------------------------------
+\vspace{-5pt}
+
+\section{Education}
+
+\resumeHeading{Ph.D. in Information}{University of Toronto}{Toronto, Canada}{Winter 2027 - }Supervisor: Dr. Ebrahim Bagheri \newline \\
+\sectionsep
+
+% Put school first and degree second if your school is reputable
+\resumeHeading{M.A.Sc. in Computer Engineering}{University of Guelph}{Guelph, Canada}{2023 - 2025}%Supervisors: Dr. Fattane Zarrinkalam and Dr. Ebrahim Bagheri
+\\
+Affiliated with \customLink{https://vectorinstitute.ai/}{Vector Institute for Artificial Intelligence} as Faculty Affiliate Researcher
+\begin{bullets}
+    % \item \textbf{GPA}: 89/100 
+    % \item \textbf{Selected courses}: Information Retrieval(A+)
+    \item \textbf{Thesis}: DiffusionRank: A Denoising Diffusion Framework for Learning to Rank
+\end{bullets}
+\vspace{5pt}
+\sectionsep
+
+% \resumeHeading{B.Sc. in Computer Engineering}{Ferdowsi University of Mashhad}{Mashhad, Iran}{2018 - 2023}
+% \begin{bullets}
+    % \item \textbf{GPA}: 81/100
+    % \item \textbf{Selected courses}: Fundamentals of Information Retrieval(A+), Data Mining(A+), Database(A+)
+    % \item \textbf{Project}: Course Dataset Generation from Universities Course Catalogs.
+% \end{bullets}
+% \sectionsep
+
+
+% \educationHeading{High School Diploma in Mathematics}{\customLink{http://www.besat-hs.ir/}{Besat High School}}{Mashhad, Iran}{2014-2018}
+% \begin{bullets}
+%     \item \textbf{Overall GPA}: 4/4
+% \end{bullets}
+% \sectionsep
+
+
+%--------------------------------------------------------------
+%     Skills
+%--------------------------------------------------------------
+\vspace{-5pt}
+\section{Skills}
+
+% \bulletheader{Proficient in}: Machine Learning Algorithms, Neural Networks, Semantic Web, Information Retrieval
+\bulletheader{Languages:} Python, C, C++ \\
+\vspace{5pt}
+
+% \bulletheader{Python Frameworks and Packages:}
+%     \begin{bullets}
+%         \item Accelerate, DeepSpeed, PyTorch, TensorFlow, Transformers, Pandas, NumPy, SKlearn, NLTK, spaCy, Beir
+%         \item Django, Django Rest Framework, Flask, Fastapi, Selenium, Pytest, Doctest, BeatifulSoup4
+%     \end{bullets}
+% \vspace{5pt}
+\bulletheader{Databases:} PostgreSQL, MongoDB, SQLite, MySQL, Milvus \\
+\vspace{5pt}
+\bulletheader{Misc:} Git, Docker, Nginx, HTML/CSS, \LaTeX, Unix-based OS, REST API design, Web Scraping, Data Visualization \\
+% \vspace{5pt}
+% \bulletheader{Soft Skills:} Communication, Leadership, Teamwork, Flexibility
+\sectionsep
+
+
+%--------------------------------------------------------------
+%     Projects
+%--------------------------------------------------------------
+% \section{Selected Projects}
+
+% \projectHeading{Neural Retriever utilizing Entities}{https://github.com/sadjadeb/neural_retriever_utilizing_entities}{2023}
+
+% \vspace{3pt}
+% A retrieval model that enriches the representation of the queries and passages by the representation of their entities.
+% \sectionsep
+
+
+% \projectHeading{QR Code Ticket System}
+% {https://github.com/sadjadeb/qrCode_ticket}{2022}
+
+% \vspace{3pt}
+% An app that generates a QR code for users and provides a QR reader for the receptionist to verify each ticket.
+% \sectionsep
+
+% \begin{center}
+% \color{gray}
+%     Last updated on November 26, 2026.
+% \end{center}
+
+
+\end{document}
