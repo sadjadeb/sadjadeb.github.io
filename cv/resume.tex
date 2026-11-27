@@ -19,7 +19,7 @@ pdfauthor={Sajad Ebrahimi},
 \newcommand{\publicationHeading}[3]{{#1}\hfill\location{#3}\\ \descript{#2}\\}
 
 
-\newcommand{\projectHeading}[4]{\customLink{#2}{#1}\hfill\descript{#3}\\}
+\newcommand{\projectHeading}[3]{\customLink{#2}{#1}\hfill\descript{#3}\\}
 
  
 %--------------------------------------------------------------
@@ -76,20 +76,20 @@ pdfauthor={Sajad Ebrahimi},
 
 \section{Work Experience}
 
-\resumeHeadingWoLoc{Research Assistant}{University of Toronto}{Fall 2025 - Fall 2026}{}
-\begin{bullets}
-    \item Researched and developed methods for safeguarding courts and legal documents against synthetic AI-generated content.
-    \item Led development of the DetectZoo package, integrating 65 detectors and 25 datasets for AI-generated content detection.
-    \item Investigated agentic workflows for Deep Research systems, focusing on retrieval, query expansion, and search optimization.
-\end{bullets}
-\sectionsep
-
 \resumeHeading{Data Scientist}{\customLink{https://reviewer.ly/}{Reviewerly}}{Toronto, Canada}{Nov 2023 - }
 \begin{bullets}
     \item Directed research on evaluating scientific peer reviews by defining 13 distinct metrics to assess review quality, resulting in the RottenReviews benchmark and Peeriscope tool.
     \item Built and now maintain a Milvus-backed index of 260M+ papers and 96M+ authors, delivering sub-second similarity search that powers Reviewerly's matching engine, adopted by peer-review venues and grant agencies in its first release cycle.
     \item Designed and implemented an end-to-end pipeline to generate a made-to-order reviewer pool for each venue and assign appropriate reviewers to submissions.
     % \item Parallelized a keyphrase extraction model across 6 GPUs to process 200M records, accelerating the process by 10x.
+\end{bullets}
+\sectionsep
+
+\resumeHeadingWoLoc{Research Assistant}{University of Toronto}{Fall 2025 - Fall 2026}{}
+\begin{bullets}
+    % \item Researched and developed methods for safeguarding courts and legal documents against synthetic AI-generated content.
+    \item Led development of the \customLink{https://github.com/sadjadeb/DetectZoo}{DetectZoo} package, integrating 65 detectors and 25 datasets (Across Text, Audio, Image, and Video modalities) for AI-generated content detection.
+    \item Investigated agentic workflows for Deep Research systems, focusing on retrieval, query expansion, and search optimization.
 \end{bullets}
 \sectionsep
 
@@ -123,8 +123,8 @@ pdfauthor={Sajad Ebrahimi},
 
 \section{Education}
 
-\resumeHeading{Ph.D. in Information}{University of Toronto}{Toronto, Canada}{Winter 2027 - }Supervisor: Dr. Ebrahim Bagheri \newline \\
-\sectionsep
+% \resumeHeading{Ph.D. in Information}{University of Toronto}{Toronto, Canada}{Winter 2027 - }Supervisor: Dr. Ebrahim Bagheri \newline \\
+% \sectionsep
 
 % Put school first and degree second if your school is reputable
 \resumeHeading{M.A.Sc. in Computer Engineering}{University of Guelph}{Guelph, Canada}{2023 - 2025}%Supervisors: Dr. Fattane Zarrinkalam and Dr. Ebrahim Bagheri
@@ -172,7 +172,7 @@ Affiliated with \customLink{https://vectorinstitute.ai/}{Vector Institute for Ar
 % \vspace{5pt}
 \bulletheader{Databases:} PostgreSQL, MongoDB, SQLite, MySQL, Milvus \\
 \vspace{5pt}
-\bulletheader{Misc:} Git, Docker, Nginx, HTML/CSS, \LaTeX, Unix-based OS, REST API design, Web Scraping, Data Visualization \\
+\bulletheader{Misc:} Git, Docker, Nginx, HTML/CSS, \LaTeX, Unix-based OS, REST API design \\
 % \vspace{5pt}
 % \bulletheader{Soft Skills:} Communication, Leadership, Teamwork, Flexibility
 \sectionsep
@@ -181,26 +181,23 @@ Affiliated with \customLink{https://vectorinstitute.ai/}{Vector Institute for Ar
 %--------------------------------------------------------------
 %     Projects
 %--------------------------------------------------------------
-% \section{Selected Projects}
+% \vspace{-5pt}
+% \section{Selected Open Source Projects}
 
-% \projectHeading{Neural Retriever utilizing Entities}{https://github.com/sadjadeb/neural_retriever_utilizing_entities}{2023}
-
+% \projectHeading{DetectZoo}{https://github.com/sadjadeb/DetectZoo}{}
+% \vspace{2pt}
+% A unified research toolkit implementing 61 methods to detect AI-generated content across text, audio, and image modalities.
 % \vspace{3pt}
-% A retrieval model that enriches the representation of the queries and passages by the representation of their entities.
+
+% \projectHeading{FiCi}{https://github.com/sadjadeb/FiCi}{}
+% \vspace{2pt}
+% A Python package designed to identify fake (AI-generated) citations in scientific papers.
 % \sectionsep
 
-
-% \projectHeading{QR Code Ticket System}
-% {https://github.com/sadjadeb/qrCode_ticket}{2022}
-
-% \vspace{3pt}
-% An app that generates a QR code for users and provides a QR reader for the receptionist to verify each ticket.
-% \sectionsep
-
-% \begin{center}
-% \color{gray}
-%     Last updated on November 26, 2026.
-% \end{center}
+\begin{center}
+\color{gray}
+    Last updated on November 26, 2026.
+\end{center}
 
 
 \end{document}
